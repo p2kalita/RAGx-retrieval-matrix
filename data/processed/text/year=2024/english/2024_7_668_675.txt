@@ -1,0 +1,308 @@
+             [2024] 7 S.C.R. 668 : 2024 INSC 510
+
+                 Yogesh Goyanka
+                                    v.
+                   Govind & Ors.
+                       (Civil Appeal No. 7305 of 2024)
+                      10 July 2024
+     [Vikram Nath and Satish Chandra Sharma*, JJ.]
+
+                      Issue for Consideration
+     Appellant, pendente lite purchaser of the Subject Land, filed
+     impleadment application before the District Judge (ADJ) under
+     Order 1 Rule 10, CPC, which was dismissed. The order was upheld
+     by the High Court. Whether Appellant, who undisputedly had notice
+      of the pending litigation, was not entitled to impleadment as he
+    was not a bona fide purchaser.
+                          Headnotes†
+     Transfer of Property Act, 1882 – s.52 – Doctrine of lis pendens –
+    Impleadment of transferee pendente lite who undisputedly
+    had notice of the pending litigation – If barred – Code of Civil
+    Procedure – Order 1 Rule 10.
+     Held: 1. There is no bar to the impleadment of transferees pendente
+       lite with notice – On facts, the mere fact that the registered sale
+    deed (RSD) in question was executed during the pendency of
+     the Underlying Suit does not automatically render  it null and
+     void – The law on impleadment of subsequent transferees, as
+     established by the Supreme Court has evolved in a manner that
+      liberally enables subsequent transferees to protect their interests
+      in recognition of the possibility that the transferor pendente lite
+    may not defend the title or may collude with the plaintiff therein –
+     Misplaced reliance of ADJ on judgment of this Court in Bibi
+     Zubaida – The only principle emerging from Bibi Zubaida is that
+     transferees pendente lite cannot seek impleadment as a matter
+      of right – However  it does not place a bar on impleadment of
+     transferees who purchase property without seeking leave of the
+     Court – Permitting the impleadment of a transferee pendente lite
+       is, in each case, a discretionary exercise undertaken to enable a
+     purchaser with a legally enforceable right to protect their interests
+
+
+* Author
+
+[2024] 7 S.C.R.                                             669
+               Yogesh Goyanka v. Govind & Ors.
+
+     especially when the transferor fails to defend the suit or where
+     there is a possibility of collusion [Paras 17-19].
+      2. In the particular facts and circumstances of this case, there is a
+      possibility of collusion between the Respondents – It is also curious
+      that the claim of non-payment of consideration by the Appellant
+    was made for the first time before this Court – Appellant has a
+     registered sale deed in his favor and has therefore seemingly
+     acquired an interest in the Subject Land – Whether or not the
+     consideration was paid, is a disputed question of fact that shall
+    be determined by the Trial Court – Considering the totality of the
+     circumstances, including the fact that the trial has not progressed
+      significantly, the Appellant, in the interest of justice, is entitled to
+     impleadment in the Underlying Suit in order to protect his interests,
+          if any, in the Subject Land – Appellant directed to be added as a
+     party-defendant in the Underlying Suit. [Paras 20, 21, 22]
+     Transfer of Property Act, 1882 – s.52 – Doctrine of lis pendens –
+     Discussed.
+     Held: The doctrine of lis pendens as provided u/s.52 of the Act
+    does not render all transfers pendente lite to be void ab-initio – It
+     merely renders rights arising from such transfers as subservient
+      to the rights of the parties to the pending litigation and subject to
+    any direction that the Court may pass thereunder. [Para 16]
+                      Case Law Cited
+      Bibi Zubaida Khatoon v. Nabi Hassan Saheb & Anr. [2003] Supp.
+    5 SCR 290 : (2004) 1 SCC 191 – Distinguished.
+    Thomson Press v. Nanak Builders [2013] 2 SCR 74 : (2015) 5
+   SCC 397; Amit Kumar Shaw v. Farida Khatoon [2005] 3 SCR 509 :
+     (2005) 11 SCC 403; A. Nawab John v. V.N. Subramaniyam [2012] 6
+   SCR 369 : (2012) 7 SCC 738 – Referred to.
+                                List of Acts
+     Transfer of Property Act, 1882; Code of Civil Procedure, 1908.
+                             List of Keywords
+      Suit for permanent injunction and declaration; Release Deeds;
+     pendente lite purchasers; Doctrine of lis pendens; Impleadment
+      of a transferee pendente lite; Section 52 of TP Act; bona fide
+     purchasers; Temporary injunction; Unpaid consideration.
+
+670                                                      [2024] 7 S.C.R.
+                      Digital Supreme Court Reports
+
+                     Case Arising From
+     CIVIL APPELLATE JURISDICTION: Civil Appeal No. 7305 of 2024
+    From the Judgment and Order dated 21.01.2022 of the High Court
+     of Judicature for Rajasthan at Jaipur in SBCWP No. 17887 of 2019
+                   Appearances for Parties
+    C.A Sundaram, Sr. Adv., Abhishek Gupta, Mrs. Rohini Musa, Jafar
+     Inayat, Kuldeep Yadav, Advs. for the Appellant.
+    Huzefa Ahemdi, V.K. Shukla, Sr. Adv., Anuj Bhandari, Rajat Gupta,
+    Harikumar V., Anupam Mishra, Govind R, Mrs. S Krishna, Ms.
+     Rajnandini, Abhisar Bhanu, Ms. Megha Karnwal, Anupam Kishore
+     Sinha, Advs. for the Respondents.
+            Judgment / Order of the Supreme Court
+                       Judgment
+     Satish Chandra Sharma, J.
+1.   Leave granted.
+2.   The present appeal arises out of judgment dated 21.01.2022 passed
+    by the High Court of Judicature for Rajasthan in S.B. Civil Writ
+     Petition No. 17887 of 2019 whereby the writ petition preferred by the
+     Appellant herein under Article 227 of the Constitution of India was
+     dismissed (the ‘Impugned Order’). The Appellant approached the
+    High Court on being aggrieved by the dismissal of his impleadment
+     application under Order 1 Rule 10, Code of Civil Procedure, 1908
+     (the ‘CPC’) vide order dated 10.10.2019 passed by the Ld. Additional
+      District Judge No. 1, Hindaun City (the ‘ADJ’).
+     Brief Facts:
+3.   The Appellant before us, along with the proforma Respondents herein
+    purchased farming land being Khasra No. 5896, 5897, 5898, 5936
+    and 5895 admeasuring 2.38 hectare at Hinduan City, Rajasthan
+     (the ‘Subject Land’) from Respondent No. 21 vide registered sale
+    deed dated 28.09.2018 (the ‘RSD’) for a collective consideration
+     of Rs. 1,51,65,360/-. Admittedly, the RSD contained an explicit
+     declaration to the effect that there were cases pending in the Court
+     of the Ld. SDM and in the court of Ld. ADJ, Hindaun City, relating
+     to the Subject Land.
+
+[2024] 7 S.C.R.                                             671
+               Yogesh Goyanka v. Govind & Ors.
+
+4.   The Subject Land originally belonged to Respondent Nos. 1-17 (the
+      ‘Plaintiffs’) and was released in favor of Respondent Nos. 18-20 (the
+     ‘Defendants’) vide release deeds dated 11.08.2006 and 31.01.2007
+     (the ‘Release Deeds’). Thereafter, on the strength of the Release
+    Deeds, the Subject Land was sold to Respondent No. 21 by the
+    Defendants vide registered sale deed dated 26.04.2007 and the
+    revenue records were mutated to reflect the name of Respondent
+    No. 21. It is pertinent to note that the Plaintiffs and the Defendants
+     are all relatives, having a common ancestor namely, one Mr. Nathua.
+5.   The events giving rise to the present appeal began on 03.01.2018
+    when the Plaintiffs filed Suit No. 1 of 2018 in the court of the
+    ADJ, against the Defendants and Respondent No. 21 (hereinafter
+     collectively referred to as the ‘Original Defendants’) seeking
+    permanent injunction and a declaration to the effect that the Release
+    Deeds and the sale deed dated 26.04.2007 are null and void (the
+     ‘Underlying Suit’).
+6.   Admittedly, after the issuance of notice in the Underlying Suit,
+    Respondent No. 21 entered appearance before the ADJ on 11.01.2018
+    and hence knowingly executed the RSD in favor of the Appellant
+    pendente lite. Thereafter, on 25.01.2019, the ADJ granted a temporary
+     injunction in favor of the Plaintiffs.
+7.  On becoming aware of the temporary injunction, the Appellant, along
+     with the other pendente lite purchasers of the Subject Land filed an
+    impleadment application on 13.02.2019 before the ADJ under Order
+    1 Rule 10, CPC. Vide order dated 10.10.2019, the application was
+     dismissed by the ADJ holding that no need arises to implead the
+     applicants therein as (i) permission of the Court was not sought
+      prior to the sale; and (ii) more importantly, they were not bona fide
+     purchasers as they were wholly cognizant of the Underlying Suit
+      prior to their purchase. The ADJ placed reliance on the judgment
+     of this Court in Bibi Zubaida Khatoon vs. Nabi Hassan Saheb &
+    Anr (2004) 1 SCC 191.
+8.   Thereafter, the Appellant alone approached the High Court under
+      Article 227 of the Constitution of India challenging the order of the ADJ.
+     Vide the Impugned Order, the High Court held that the impleadment
+     application was untenable as the RSD itself was a nullity by virtue of
+     being hit by the doctrine of lis pendens as provided under Section
+    52 of the Transfer of Property Act, 1882 (the ‘Act’).
+
+672                                                      [2024] 7 S.C.R.
+                      Digital Supreme Court Reports
+
+    Submissions & Analysis:
+9.   Mr. C.A. Sundaram, Learned Senior Counsel for the Appellant
+      forcefully contended before us that the Appellant after paying the
+       full consideration, obtained a registered sale deed in his favor and is
+     therefore entitled to the protection of his interests in the Subject Land.
+    He argues that impleadment of the Appellant in the Underlying Suit
+      is necessary as there exists a real possibility of collusion between
+     the Plaintiffs and the Original Defendants. To substantiate his claim,
+    Learned Counsel highlights that the Plaintiffs and the Defendants
+     are relatives. Further, he points to the considerable delay in the
+       filing of the Underlying Suit, about 12 years after the execution of
+     the Release Deeds.
+10. On the legal issue, Mr. Sundaram asserts that there is no bar to the
+    impleadment of a transferee pendente lite, even when the transferee
+    has prior knowledge of pendency. To buttress his contention, he
+     points to the judgment of this Court in Thomson Press vs. Nanak
+     Builders, (2015) 5 SCC 397 wherein, after considering all the
+     previous judgments on the question of impleadment of a transferee
+    pendente lite, this Court permitted the impleadment of a transferee
+      in a suit for specific performance, who not only had notice of the
+    pendency but also had knowledge of the injunction prohibiting any
+     transactions relating to the subject property therein.
+11.  Per contra Mr. V.K. Shukla, Learned Senior Counsel for the Plaintiffs
+    contended that the Appellant is not entitled to impleadment as he is
+     not a bona fide purchaser. He argued that despite having knowledge
+     of the pendency, no permission was sought from the Court to execute
+     the RSD and hence, the Appellant is not entitled to any relief. To
+     buttress his contention, reliance is placed on Bibi Zubaida (supra)
+     wherein this Court held that transferees pendente lite cannot, as a
+     matter of right, seek impleadment. In that case, this Court upheld the
+     decision of the trial court rejecting impleadment on grounds that the
+     transferee was not bona fide and was only attempting to complicate
+    and delay the pending suit.
+12.  Mr. Shukla also contends that the judgment of this Court in Thomson
+    Press (supra) is entirely distinguishable on facts from the present
+     matter and is hence inapplicable. To that extent, he highlights that
+     contrary to the factual position in Thomson Press (supra), in this
+
+[2024] 7 S.C.R.                                             673
+               Yogesh Goyanka v. Govind & Ors.
+
+     case, the title of the Appellant itself is in question and additionally,
+     the Appellant is not in possession of the Subject Land.
+13.  Going a little further, Mr. Huzefa Ahmadi, Learned Senior Counsel
+      for Respondent No. 21 contends that the Appellant cannot seek
+    impleadment as he is not even a purchaser of the Subject Land. Mr.
+    Ahmadi submits that out of the 6 cheques issued under the RSD, 2
+    cheques bounced on 01.10.2018 rendering the consideration unpaid.
+    He highlights that the RSD contains an express clause to the effect
+     that if the payment made under the 6 cheques are not completed,
+     the purchasers will not receive any legal rights over the Subject
+    Land through the RSD. On the question of unpaid consideration,
+     Mr. Sundaram asserts that the entire consideration was paid by the
+     Appellant via RTGS.
+14. He further highlights that this contention was neither raised before
+     the ADJ nor the High Court and is merely an afterthought, pointing
+      further to the Appellant’s suspicion of collusion between the parties.
+        It is also brought to the notice of this Court that Respondent No. 21
+     previously filed a suit for declaration to the effect that the RSD is
+      null and void but the same was dismissed in default on 28.02.2020.
+15. We have heard the Learned Counsel for the parties and have carefully
+    perused the record.
+16.  The fulcrum of the dispute herein concerns the impleadment of a
+     transferee pendente lite who undisputedly had notice of the pending
+      litigation. At the outset,  it appears pertinent to reiterate the settled
+     position that the doctrine of lis pendens as provided under Section
+    52 of the Act does not render all transfers pendente lite to be void
+      ab-initio,  it merely renders rights arising from such transfers as
+     subservient to the rights of the parties to the pending litigation and
+     subject to any direction that the Court may pass thereunder.
+17.  Therefore, the mere fact that the RSD was executed during the
+    pendency of the Underlying Suit does not automatically render it null
+    and void. On this ground alone, we find the Impugned Order to be
+     wholly erroneous as it employs Section 52 of the Act to nullify the
+   RSD and on that basis, concludes that the impleadment application
+      is untenable. Contrary to this approach of the High Court, the law
+    on impleadment of subsequent transferees, as established by this
+     Court has evolved in a manner that liberally enables subsequent
+
+674                                                      [2024] 7 S.C.R.
+                      Digital Supreme Court Reports
+
+     transferees to protect their interests in recognition of the possibility
+     that the transferor pendente lite may not defend the title or may
+     collude with the plaintiff therein [See the decision of this Court in
+    Amit Kumar Shaw vs. Farida Khatoon, (2005) 11 SCC 403 & A.
+    Nawab John vs. V.N. Subramaniyam, (2012) 7 SCC 738].
+18.  Similarly, we also find fault with the order of the ADJ and its misplaced
+     reliance on Bibi Zubaida (supra). The only principle emerging from
+     the judgment of this Court in Bibi Zubaida (supra) is that transferees
+    pendente lite cannot seek impleadment as a matter of right and to
+     that extent, we agree with the ADJ. However, Bibi Zubaida (supra)
+    does not place a bar on impleadment of transferees who purchase
+     property without seeking leave of the Court. The decision of the Court
+      in Bibi Zubaida (supra) turns on its own facts; the Court rejected
+     the application for joinder therein noting that the underlying suit
+    was pending since 1983 and upheld the finding of the Trial Court
+     that the subsequent purchaser was not bona fide and attempted to
+     complicate and delay the underlying suit. Therefore, the judgment
+      in Bibi Zubaida (supra), being distinguishable on facts, does not
+     assist the Respondents herein.
+19.  The Respondents herein assail the impleadment of the Appellant
+    on the ground that he is not a bona fide purchaser as he had full
+    knowledge of the pending litigation. While that is the admitted position,
+     there exists no bar to the impleadment of transferees pendente lite
+     with notice. Permitting the impleadment of a transferee pendente
+       lite is, in each case, a discretionary exercise undertaken to enable
+    a purchaser with a legally enforceable right to protect their interests
+     especially when the transferor fails to defend the suit or where there
+      is a possibility of collusion.
+20.  In the particular facts and circumstances of this case, Mr. Sundaram
+    has been able to satisfy this Court on the possibility of collusion
+    between the Respondents. It is a fact that the Plaintiffs and Defendants
+     are relatives. More importantly, Plaintiffs approached the court in
+     the Underlying Suit after a substantial delay of 11 years whereas
+     admittedly, the revenue records were mutated to reflect the name
+     of Respondent No. 21 since 2007. It is also curious that the claim
+     of non-payment of consideration by the Appellant was made for the
+       first time before this Court.
+
+[2024] 7 S.C.R.                                             675
+               Yogesh Goyanka v. Govind & Ors.
+
+21. On the other hand, the Appellant has a registered sale deed in his
+     favor and has therefore seemingly acquired an interest in the Subject
+    Land. Whether or not the consideration was paid, is a disputed
+     question of fact that shall be determined by the Trial Court. Therefore,
+      in the considered opinion of this Court, considering the totality of
+     the circumstances in this case, including the fact that the trial has
+     not progressed significantly, the Appellant herein, in the interest of
+      justice, is entitled to impleadment in the Underlying Suit in order to
+     protect his interests, if any, in the Subject Land.
+22.  In light of the aforesaid, the appeal stands allowed. The Impugned
+    Order and the order of the ADJ dated 10.10.2019 are set aside and
+     the Appellant is directed to be added as a party-defendant in the
+     Underlying Suit.
+23.  Pending applications, if any, shall also stand disposed of.
+     Result of the case: Appeal allowed.
+
+
+
+     †Headnotes prepared by: Bibhuti Bhushan Bose
+                              (With assistance from: Geethika. K, LCRA)

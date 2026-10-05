@@ -1,0 +1,202 @@
+        [2024] 7 S.C.R. 1225 : 2024 INSC 535
+
+           M/s New Win Export & Anr.
+                                v.
+                 A. Subramaniam
+             (Criminal Appeal No. 2948 of 2024)
+                     11 July 2024
+[Sudhanshu Dhulia and Ahsanuddin Amanullah, JJ.]
+
+                  Issue for Consideration
+ Whether in the instant case, conviction under Section 138 of the
+ Negotiable Instruments Act, 1881 could be quashed by the Supreme
+ Court as the parties had settled the dispute among themselves by
+ entering into a settlement agreement.
+                      Headnotes†
+ Negotiable Instruments Act, 1881 – s.138 – Offence under –
+ Compounding of – Settlement treated to be compounding of
+ the offence:
+ Held: Appellants and respondent-complainant had entered into
+ a settlement agreement dated 27.01.2024 –  It is clear that the
+ parties have settled the dispute among themselves – As per the
+ agreement, the appellants have paid Rs.5,25,000 to the respondent-
+ complainant, who has agreed to settle the present matter for the
+ said amount – The complainant does not have any objection  if
+ the conviction of the appellants is set aside – This settlement
+ agreement can be treated to be compounding of the offence –
+ When the accused and complainant have reached a settlement
+ permissible by law and this Court has also satisfied itself regarding
+ the genuineness of the settlement, the conviction of the appellants
+ would not serve any purpose and thus,  it is required to be set
+ aside. [Paras 3, 4, 5]
+ Negotiable Instruments Act, 1881 – s.147 – Compounding of
+ offences in context of the Act – Dishonour of cheques is a
+ regulatory offence – ‘compensatory aspect’ of remedy has
+ priority over ‘punitive aspect’ – Code of Criminal Procedure,
+ 1973 – s.320(5):
+ Held: Dishonour of cheques is a regulatory offence which was
+ made an offence only in view of public interest so that the reliability
+
+1226                                                     [2024] 7 S.C.R.
+                      Digital Supreme Court Reports
+
+      of these instruments can be ensured – s.147 of Negotiable
+    Instruments Act, 1881 makes all offences under NI Act
+    compoundable offences – All the same, s.320(5) CrPC provides
+      that  if compounding has to be done after conviction, then  it can
+     only be done with the leave of the Court where appeal against such
+     conviction is pending – Keeping in mind that the ‘compensatory
+     aspect’ of remedy shall have priority over the ‘punitive aspect’,
+     courts should encourage compounding of offences under the NI
+     Act if parties are willing to do so. [Paras 4, 6]
+                      Case Law Cited
+     Raj Reddy Kallem v. The State of Haryana & Anr. [2024] 5 SCR
+     203; Damodar S. Prabhu v. Sayed Babalal H. [2010] 5 SCR 678 :
+     (2010) 5 SCC 663; Gimpex Private Limited v. Manoj Goel [2021]
+     11 SCR 432 : (2022) 11 SCC 705; Meters and Instruments Private
+     Limited and Anr. v. Kanchan Mehta [2017] 10 SCR 66 : (2018) 1
+   SCC 560 – referred to.
+                                List of Acts
+     Negotiable Instruments Act, 1881; Code of Criminal Procedure,
+     1973.
+                             List of Keywords
+     Section 138 Negotiable Instruments Act, 1881; Insufficient funds;
+     Settlement agreement; Compoundable offences; Compounding of
+     the offence; Compounding after conviction; Compensatory aspect
+      of remedy.
+                     Case Arising From
+    CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No. 2948
+     of 2024
+    From the Judgment and Order dated 01.04.2019 of the High Court
+     of Judicature at Madras in CRLA No. 45 of 2014
+                   Appearances for Parties
+   M Yogesh Kanna, K. Paari Vendhan, Manoj Kumar A, Advs. for the
+     Appellants.
+    Sudhakar Rajendran, Vairawan A.S, Advs. for the Respondent.
+
+[2024] 7 S.C.R.                                            1227
+           M/s New Win Export & Anr. v. A. Subramaniam
+
+            Judgment / Order of the Supreme Court
+                           Order
+    Leave granted.
+2.   This case arises from a complaint under Section 138 Negotiable
+     Instruments Act filed by the respondent/complainant. In the year
+     2006, appellant no.2 had borrowed a loan of Rs.5,25,000 from the
+     respondent but did not repay as promised. To discharge the said debt,
+     the appellant no.2 gave a cheque of Rs.5,25,000 which was issued
+      in the name of his partnership firm i.e., appellant no.1 (M/s New
+    Win Export). Since the cheque was dishonoured due to ‘insufficient
+     funds’, respondent filed a complaint under Section 138 NI Act against
+     the appellants where the Trial Court vide order dated 16.10.2012
+     convicted the appellants and imposed a sentence of 1 year of simple
+     imprisonment each. The appellants challenged their conviction before
+     the Appellate Court, which reversed the findings of the Trial Court
+    and acquitted the appellants. Finally, when the matter was taken to
+     the High Court at the instance of the respondent/complainant, the
+    High Court in its order dated 01.04.2019 set-aside the order of the
+     Appellate Court and restored the order of the Trial Court, convicting
+     the appellants. Now, the appellants are before this Court.
+3.  We have been apprised at the bar that before filing the present
+     appeal, appellants and respondent-complainant had entered into
+    a settlement agreement dated 27.01.2024. We have perused the
+     settlement document and from the terms of the agreement,  it is
+     clear that the parties have settled the dispute among themselves.
+    As per the agreement, the appellants have paid Rs.5,25,000 to
+     the respondent-complainant, who has agreed to settle the present
+     matter for the said amount. Also, the complainant does not have any
+     objection if the conviction of the appellants is set aside. The relevant
+     portion of the said settlement agreement is reproduced below where
+     the expression ‘First Party’ is used for the respondent-complainant
+    and accused-appellant has been called as the ‘Second Party’:
+         “…..The First Party and the second Party had agreed to
+           settle their dispute between them at a final settlement of
+          Rs.5,25,000/ - (Five Lakhs and twenty five thousand only)
+        and the First party had. received a sum of Rs.5,25,000/
+          (Five Lakhs and. twenty five thousand only) by way of
+       Demand draft dated 08.12.2023 bearing No.135744 drawn
+
+1228                                                     [2024] 7 S.C.R.
+                      Digital Supreme Court Reports
+
+        on Union Bank, Perunthozhuvu Branch received from the
+         second party.
+           5. The First Party agrees to accept the final settlement
+        amount of Rs.5,25, 000/ - (Five Lakhs and twenty five
+         thousand only) and the First Party had received the sum
+           of Rs.5,25,000/- (Five Lakhs and twenty five thousand
+           only) from the Second party as mentioned above.
+           6. After the execution of the present Settlement Agreement,
+          the Second Party is intending to file a Special Leave Petition
+          before the Honourable Supreme Court of India and the
+            First Party agrees to support the Special Leave Petition
+            filed by the Second Party, in order to enable the Hon’ble
+        Supreme Court of India to pass appropriate order as the
+         Hon’ble supreme Court may deem it fit and proper in the
+           facts and circumstances of the present.
+           7. The First Party will have no objection if the conviction
+           of the Second Party is set aside by the Hon’ble Supreme
+         Court of India.”
+4.   Section 147 of the Negotiable Instruments Act, 1881 makes all offences
+     under NI Act compoundable offences. In our opinion, this settlement
+    agreement can be treated to be compounding of the offence. All the
+    same, Section 320 (5) of CrPC provides that if compounding has to
+    be done after conviction, then it can only be done with the leave of
+     the Court where appeal against such conviction is pending.
+5.   In cases where the accused relies upon some document for
+    compounding the offence at the appellate stage, courts shall try
+     to check the veracity of such document, which can be done in
+     multiple ways. For the same, in the present matter, this Court vide
+     order dated 18.03.2024 had asked the respondent-complainant to
+       file an affidavit to bring on record whether or not any compromise
+    has been reached between the parties. In compliance with the said
+     order, the respondent-complainant has filed before us an affidavit
+     dated 27.03.2024 supporting the case of the appellants wherein it is
+     admitted that the accused have paid the amount to the satisfaction
+     of the complainant and further it is said that he has no objection if
+     conviction of the appellants is set aside. Now, when the accused
+    and complainant have reached a settlement permissible by law and
+      this Court has also satisfied itself regarding the genuineness of the
+
+[2024] 7 S.C.R.                                            1229
+           M/s New Win Export & Anr. v. A. Subramaniam
+
+     settlement, we think that the conviction of the appellants would not
+     serve any purpose and thus, it is required to be set aside.
+6.   At this juncture, we would also like to reiterate a few words regarding
+     the principles of compounding of offences in the context of NI Act. It is
+     to be remembered that dishonour of cheques is a regulatory offence
+    which was made an offence only in view of public interest so that
+     the reliability of these instruments can be ensured. A large number
+     of cases involving dishonour of cheques are pending before courts
+    which is a serious concern for our judicial system. Keeping in mind
+     that the ‘compensatory aspect’ of remedy shall have priority over the
+      ‘punitive aspect’, courts should encourage compounding of offences
+    under the NI Act  if parties are willing to do so. (See: Damodar S.
+    Prabhu v. Sayed Babalal H. (2010) 5 SCC 663,1 Gimpex Private
+     Limited v. Manoj Goel (2022) 11 SCC 705,2 Meters And Instruments
+     Private Limited And Anr. v. Kanchan Mehta (2018) 1 SCC 560 3)
+7.   In Raj Reddy Kallem v. The State of Haryana & Anr. [2024] 5
+   SCR 203, this Court followed the same principles and quashed a
+     conviction under the NI Act, by invoking its powers under Article
+     142, even though the complainant therein declined to give consent
+      for compounding, observing that the accused has sufficiently
+    compensated the complainant.
+8.   Considering the totality of the circumstances and compromise
+    between the parties, we allow this appeal and acquit the appellants by
+     setting aside the impugned order dated 01.04.2019 as well the Trial
+     Court’s order dated 16.10.2012. Appellant no.2, who was exempted
+     from surrendering by this Court, need not surrender and his sureties
+     are hereby discharged.
+    Pending application(s), if any, are disposed of.
+     Result of the case: Appeal allowed
+
+
+
+     †Headnotes prepared by: Bibhuti Bhushan Bose
+                              (With assistance from: Sanyam Mishra, LCRA)
+
+
+1    Para 18
+2    Para 29
+3    Para 18.2

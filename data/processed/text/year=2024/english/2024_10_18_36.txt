@@ -1,0 +1,786 @@
+             [2024] 10 S.C.R. 18 : 2024 INSC 733
+
+            Khunjamayum Bimoti Devi
+                                    v.
+             The State of Manipur & Ors.
+                      (Civil Appeal No. 10682 of 2024)
+                    19 September 2024
+[Hrishikesh Roy,* Sudhanshu Dhulia and S.V.N. Bhatti, JJ.]
+
+                      Issue for Consideration
+     Issue arose whether all aspirants whose names find place in the
+     revised select list, pursuant to the course correction process,
+    would secure appointment against the notified 1423 posts of
+     Primary Teachers, irrespective of whether they were litigating for
+     appointment.
+                          Headnotes†
+     Service law – Appointment/recruitment – Recruitment process
+     for 1423 posts of Primary Teachers – Written examination held
+    and interviews were pending, meanwhile local daily published
+     the result of the selection process when official results
+    were yet to be declared – Enquiry Committee constituted –
+    Government notified 1051 Primary Teachers to be engaged
+    on contract basis – Later clarified that said appointments
+    made was temporary arrangement – Thereafter, official result
+     of the selection notified and 1423 candidates selected for the
+    posts – Appellant and others challenged the selection – High
+    Court condoned the allegation about publication of names
+     of selected candidates in local newspaper – State directed
+     to constitute Review DPC to submit fresh recommendation –
+    Recommendations directed to confine to only unreserved, SC
+    and ST categories and candidates shortlisted in OBC category
+     to be excluded from the fresh select list – Challenge to:
+     Held: When there is a declaration of law by court, the judgment
+    can be treated as judgment in rem and require equities to be
+     balanced by treating those similarly situated – Thus, as this Court
+       is directing appointments strictly in accordance with merit of the
+     candidates in the recruitment test, as per the revised list, parity relief
+     should be considered for all similarly situated persons – Differential
+
+
+* Author
+
+[2024] 10 S.C.R.                                             19
+     Khunjamayum Bimoti Devi v. The State of Manipur & Ors.
+
+     treatment for those who did not approach the Court earlier may
+     not be warranted and would amount to denial of opportunity u/
+     Arts.14 and 16 – Selected candidates are put in limbo waiting for
+    employment for last several years – This Court is quite capable
+      of hearing the selectees, possibly incapacitated to approach the
+     Court by reasons beyond their control – High Court’s judgment
+      to be construed as judgment in rem with intention to give benefit
+      to all similarly situated persons irrespective of whether they were
+     before the Court or not – Whereas, this Court’s judgment is confined
+     only to those covered by the order and should be considered
+      to be judgment in personam – Beneficiaries of this judgment
+     subject to their respective merit position in the revised select list,
+     should be accommodated only against the notified 1423 posts –
+     Appointment to the OBC category candidates was set aside by
+     the High Court and as such these vacancies would be available
+      to accommodate most of the deserving selectees – Appointment
+     ordered for those whose names would figure in the revised
+     select list, strictly in order of merit against the 1423 vacancies
+      notified – Concerned appointees have been serving for over 13
+     years and disruption of their service may lead to unimaginable
+     hardships, thus, left to the Government’s discretion to take a
+     decision for those who are serving and whose names may not
+      figure in the revised select list, pursuant to the ordered exercise –
+    Judgment by the High Court upheld – State authorities to draw
+    up the revised select list in terms of the High Court’s judgment –
+     Appointment orders for those who figure in the revised select list
+      to be issued. [Paras 21-25, 27, 28]
+     Service law – Appointment / recruitment – Recruitment process
+     for posts of Primary Teachers – Written test conducted in
+     2006, and the answer scripts destroyed in 2008 – Allegations
+     of selection being vitiated:
+     Held: When recruitment for public posts is being made by the
+      State, preservation of the answer scripts till reasonable time after
+     the final declaration of result is the prudent course to adopt – This
+     omission was overlooked which definitely was disappointing for
+     those who failed to qualify in the written test – Since things can’t
+    be undone,  it is expected all concerned to be mindful of their
+      responsibility in future recruitments, to preserve the answer scripts
+          till the selection process is successfully completed, to obviate
+      similar such allegation of wrong doings. [Para 9]
+
+20                                                      [2024] 10 S.C.R.
+                      Digital Supreme Court Reports
+
+                      Case Law Cited
+      Uttar Pradesh and Others v. Arvind Kumar Srivastava and Others
+     [2014] 12 SCR 193 : [2015] 1 SCC 347; Shoeline v. Commissioner
+      of Service Tax & Ors. [2017] 8 SCR 582 : [2017] 16 SCC 104 –
+     referred to.
+                             List of Keywords
+    Revised select list; Appointment; Posts of Primary Teachers;
+     Acquiescence; Recruitment process; Enquiry Committee; Answer
+      scripts for written test destroyed; Practice of weeding out; Treating
+     those similarly situated, similarly; Denial of opportunity; Prolonged
+     recruitment process; Multiple litigations; Judgment in rem; Judgment
+      in personam; Recruitment for public posts; Preservation of answer
+      scripts; Allegation of wrong doings.
+                     Case Arising From
+     CIVIL APPELLATE JURISDICTION : Civil Appeal No. 10682 of 2024
+    From the Judgment and Order dated 29.03.2016 of the High Court
+     of Manipur at Imphal in WPC No. 620 of 2011
+     With
+      Civil Appeal Nos. 10683, 10684, 10685 and 10686 of 2024, Writ
+     Petition (Civil) No. 817 of 2016 and Writ Petition (Civil) No. 22 of
+     2017, Civil Appeal Nos. 10687-10688 and 10689-10690 of 2024,
+     Writ Petition (Civil) Nos. 1355 and 1476 of 2020 and Special Leave
+     Petition (Civil) No. 22118 of 2024
+                   Appearances for Parties
+    Tushar Mehta, Solicitor General, Gopal Sankaranarayanan, V. Giri,
+     K. Parameshwar, Ms. Aparna Bhat, Sanjay Hegde, Anupam Lal Das,
+   N Jotendro Singh, Dr. Joseph Aristotle, Sr Advs., F. I. Choudhury,
+    David Choudhury, Somiran Sharma, Purushottam Sharma Tripathi,
+     Amit, Ravi Chandra Prakash, Ms. Vani Vyas, Ms. Shivani Vij, Prakhar
+     Singh, Ashutosh Dubey, Abhishek Chauhan, Ms. Rajshri A Dubey,
+     H.B. Dubey, Amit P. Shahi, Shashi Bhushan Nagar, Rahul Sethi,
+    Ms. Sona Khan, Sumant A Khan, Mayank Sapra, Ms. Lalima Das,
+     Pratik R. Bombarde, Mohit Bidhuri, Abdulrahiman Tamboli, Jitendra
+    Kumar, Kirti Anand, Abhishek Kumar, Raj Kumar Mehta, Elangbam
+     Premjit Singh, Niraj Bobby Paonam, Ms. Karishma Maria, Yash S.
+      Vijay, Ms. Pooja B. Mehta, Abhisheck Chauhan, Harshad Sunder,
+
+[2024] 10 S.C.R.                                             21
+     Khunjamayum Bimoti Devi v. The State of Manipur & Ors.
+
+    Sumant Akram Khan, Amit Kumar, Anshuman Singh, Shah Rukh
+       Ali, Ankit Tiwari, Ms. Tatini Basu, Bharat J Joshi, Kumar Shashank,
+    Ahanthem Henry, Ahanthem Rohen Singh, Mohan Singh, Aniket
+     Rajput, Ms. Khoisnam Nirmala Devi, Kumar Mihir, D. Abhinav Rao,
+    David Ahongsangbam, Sayed Murtaza Ahmed, Rahul Kumar, Rajeev
+    L Mahunta, Ms. Rajkumari Banju, Maibam Nabaghanashyam Singh, K
+     Sita Rama Rao, Shakti K Pattanaik, Sanjeev Kumar Verma, Sandeep
+     Kapoor, M.P. Parthiban, R. Sudhakaran, Bilal Mansoor, Shreyas
+     Kaushal, S. Geyolin Selvam, Alagiri K, Mohit Biduri, Divakar Kumar,
+    Satya Kam Sharma, Garv Bajaj, Advs. for the appearing parties.
+            Judgment / Order of the Supreme Court
+                           Order
+    Hrishikesh Roy, J.
+1.   Delay condoned. Leave granted.
+2.   Heard Mr. Gopal Sankaranarayanan and Ms. Aparna Bhat, learned
+     senior counsel appearing for the appellants. The State of Manipur
+      is represented by Mr. Tushar Mehta, learned Solicitor General and
+     Mr. V. Giri and Mr. K. Parameshwar, learned senior counsel. Also
+    heard Mr. Anupam Lal Das, learned senior counsel appearing for
+     the already appointed candidates.
+3.   These matters pertain to the process of recruitment of, inter-alia, 1423
+     posts of Primary Teachers in the state of Manipur. The recruitment
+     process commenced with the notification dated 12.09.2006 issued by
+     the Employment Officer, Imphal West which required the aspirants to
+    have their names sponsored through the Employment Exchange. The
+    same notice also notified vacancies of 203 Primary Hindi Teachers
+    and 46 Hindi Graduate Teachers, all in the Directorate of Education
+      in Government of Manipur. At the outset, it is made clear that in this
+     order, we are dealing with the case of 1423 Primary Teachers only.
+4.   For the purpose of this order, the records of Civil Appeal arising
+     out of SLP (Civil) No. 15482 of 2016 together with the convenience
+     compilation filed in the W.P (C) No.817 of 2016 are taken into account
+     to narrate the salient circumstances of the case.
+5.  On 22.12.2006, the Board of Secondary Education, Manipur
+     (hereinafter referred to as, “the Board”) conducted a written test and
+
+22                                                      [2024] 10 S.C.R.
+                      Digital Supreme Court Reports
+
+     the result of the test was declared on 16.04.2007 by the Secretary
+     of the Board indicating that 5322 candidates were successful in the
+     written examination. The interviews for the short-listed candidates
+    were held from 06.02.2009 and continued till August, 2009. At that
+     stage a local daily in Manipur on 26.06.2010, published the result of
+     the selection process when official results were yet to be declared
+      for the subject recruitment. The said newspaper publication led to an
+     Enquiry Committee being constituted by the Government of Manipur
+     to determine whether any illegality has been committed by the
+     Recruitment Committee (referred to as, “the DPC” by the authorities
+    and courts) in the selection process pursuant to notification dated
+     12.09.2006.
+6.   Thereafter, on 07.03.2011, the Director (Education), Government of
+    Manipur notified that 1051 Primary Teachers would be engaged on
+     contract basis on remuneration of Rs.7600 per month. The breakup
+     of the list of 1051 appointees was (Gen.-512, OBC–177, ST–322,
+    SC–21 and PH–19). Since most of the names in the notification dated
+     7.3.2011 were amongst the names published in the local newspaper
+    on 26.06.2010, the leakage of the select list received the attention
+     of the Manipur Legislative Assembly when  it was clarified by the
+     Chief Minister of Manipur before the House that the appointments
+    made through the notification dated 07.03.2011 was a temporary
+     arrangement, since the academic session is to commence from
+      April, 2011.
+7.  As the official result of the selection process was not declared despite
+     the process having commenced on 12.09.2006, some of the aggrieved
+     candidates moved the High Court and pursuant to the order passed
+    by the High Court on 27.07.2011, the result of the selection was
+      notified on 04.09.2011 by the Director of Education, Government of
+    Manipur indicating that 1423 candidates are selected for the 1423
+     posts of Primary Teachers, in pursuant to the recruitment process
+    which commenced on 12.09.2006.
+8.   The appellant - Khunjamayum Bimoti Devi and others moved the High
+     Court challenging the selection process. Besides other petitions, the
+     challenge was also made, inter-alia, through the W.P (C) No.815 of
+    2011 and W.P(C) No.127 of 2012. These writ petitions were taken up
+      for consideration and the learned Judge of the High Court through
+     the common judgment dated 6.10.2015, concluded as follows:-
+
+[2024] 10 S.C.R.                                             23
+     Khunjamayum Bimoti Devi v. The State of Manipur & Ors.
+
+            “[9] In the present case, the selection process can be
+          divided into two parts - one, the part relating to the
+           written examination being conducted by the Board and
+          the second, the rest of the selection process till the end.
+        The first part is the responsibility of the Board and its role
+        was limited to the conduct of written examination only and
+          the moment the result thereof was declared, its role came
+           to an end and  it had nothing to do with the rest of the
+          selection process. There is no material on record to show
+           that the Board was instructed by the State Government
+          not to destroy the answer scripts  till the completion of
+          the selection process. As has been stated in its affidavit
+         which is not controverted by the petitioners, the Board in
+              its normal course disposes of answer scripts after three
+        months from the date of declaration of result thereof. In
+          the absence of any instruction from the State Government,
+          the Board was not supposed to and could not be expected
+           to keep the answer scripts un-destroyed or preserved
+            for indefinite period when it was not sure as to when the
+          selection process would be completed by the DPC. In the
+          present case, one year after which the Board destroyed the
+         answer scripts, is reasonable time for keeping the answer
+           scripts un-destroyed or preserved. It is understandable if
+          the Board was entrusted to complete the entire selection
+         process but it was not so in the present case. Therefore,
+         keeping in mind the peculiar facts and circumstances, there
+             is no reason as to why this court ought to interfere with
+          the written examination being conducted by the Board,
+        when there was no grievance from any of the unsuccessful
+         candidates against the Board except only the fact that the
+         answer scripts were destroyed before the completion of
+          the selection process which was not in its control and the
+         reasons as to why the answer scripts were to be destroyed,
+        have been narrated above. As regards the interview also,
+          there appears to be no allegation/complain from any of
+          the unsuccessful candidates raising objection against
+          the DPC. The petitioners have not stated in their petition
+          anything about the irregularities, manipulation, arbitrariness
+         committed by the DPC in the viva-voce test. When the
+
+24                                                      [2024] 10 S.C.R.
+                      Digital Supreme Court Reports
+
+           select list came to be published in the newspaper, the public
+         suspected the genuineness of it and therefore, it attracted
+          the attention of the Cabinet which directed to constitute a
+         Committee to look into it. At that point of time also, there
+             is no material on record to show that any one demanded
+           that the viva-voce be repeated in the interest of public.
+        The fact that only some of the petitioners approached the
+         Hon’ble High Court praying that the State respondents
+        be directed to make the official declaration of the result,
+        shows that they were not aggrieved by the viva-voce being
+         conducted by the DPC and they wanted only the result
+           to be declared by the State respondents. Accordingly,
+        on the recommendation of the Review DPC, the result
+           of the selection was declared on 04-09-2011. Thus,  it
+         can be seen that there is nothing wrong in the selection
+         process upto the stage of viva voce test and therefore,
+        no order can be passed by this court quashing the entire
+          selection process, as prayed for by the petitioners, only
+        on the ground that the answer scripts had been destroyed
+          before the completion of the selection process.
+           [10] As regards the second issue, the contention of the
+          learned counsel appearing for the petitioners that in the
+          declaration of result, some candidates were shown to have
+        been selected against the seats allegedly reserved for the
+      OBC category which was totally contrary to the Notice
+         dated 12-09-2006, merits consideration by this court. In
+          the said Notice dated 12-09-2006, nothing is mentioned
+         about any seat being reserved for the OBC category and
+                  it could not be done also, at that point of time, for the
+         simple reason that admittedly, the Office Memorandum
+          prescribing reservation of seats for the OBC category
+       came to be issued only on 27-12-2006 after the Notice
+         dated 12-09-2006 having been issued by the Employment
+           Officer and even after the written examination having been
+          held by the Board. Moreover, this OM dated 27-12-2006
+        does not indicate that it would apply retrospectively. There
+             is no material on record to show that after the said OM
+         dated 27-12-2006 having been issued, a decision was
+         taken by the State respondents to make an amendment
+
+[2024] 10 S.C.R.                                             25
+     Khunjamayum Bimoti Devi v. The State of Manipur & Ors.
+
+            in the breakup of seats, as detailed in the said notice,
+           allotted amongst the categories by adding OBC category
+          therein and a notice thereof was issued informing the
+         candidates about such amendment. From the perusal of
+          the proceedings of the Review DPC, it appears that it had
+         proceeded on an erroneous assumption that seats were
+         reserved for the candidates belonging to OBC and the
+      DPC had not referred to any order issued by the State
+         respondents, subsequent to the issuance of the said OM,
+           that the OM would apply to the then ongoing selection
+         process after due notice being given to the candidates.
+        The Review DPC, in its proceeding, has merely stated
+           that it has followed the 200 point reservation roster which
+       came to be introduced only after the written examination
+        and the viva-voce test were over.
+           …….       ……...         ………        ……..        ……        ….
+        As is evident from the above decision of the Hon’ble
+        Supreme Court, an advertisement shall be issued in matters
+           of public employment. The purpose of requiring the issuance
+           of an advertisement is to give wide publicity to the eligible
+          candidates as regards the terms and conditions including
+          the criteria in respect of the details of selection. Any
+        change in the terms and conditions shall be made known
+           to all the candidates so that they could act accordingly.
+        As mandated under Article 16 of the Constitution of India,
+         equal opportunity shall be given to all in matters of public
+         employment. In this regard, the learned counsel appearing
+            for the petitioners has submitted that although almost all
+          the petitioners belong to OBC category, they did not get
+        an opportunity to get their names sponsored as OBC
+          candidates. There is no statement in the writ petition in
+          support of his submission but when he made the submission
+          during the course of hearing, the same was not denied
+         by any of the counsels appearing for the respondents. It
+       may also be noted at this juncture that the grievance of
+          the petitioner in W.P. (C) No. 127 of 2012 is that in spite
+           of her name being sponsored as OBC candidate, she had
+        been treated as unreserved candidate and accordingly,
+          her name was not included in the impugned list of OBC
+
+26                                                      [2024] 10 S.C.R.
+                      Digital Supreme Court Reports
+
+          candidates, though she secured more marks than many
+           of the candidates shown in the said OBC list. Thus,  it is
+          not clear as to how the candidates were sponsored by the
+        Employment Officer. At the time of getting his/her name
+         sponsored, was the concerned person required to indicate
+         whether he/she belongs to OBC category because by then,
+          the OM dated 27-12-2006 had not yet been issued at all?
+        Or is  it the case that the candidates were sponsored by
+          the Employment Officer based on the information furnished
+         by the person concered at the time of registration of his
+       name in the employment exchange and if that be so, why
+        was the petitioner in W.P. (C) No. 127 of 2012 denied the
+           benefit of being OBC candidate. On a query put to the
+          learned Government Advocate by this court in this regard,
+        he was unable to give a concrete answer saying that the
+        Government file was silent about it. No additional affidavit in
+         compliance with the order dated 10-09-2015 passed by this
+           court, has been filed by the State respondents in respect
+           of similar queries. In the present case, in the Notice dated
+         12-09-2006, it is specifically provided as under:
+           1)    Primary Teacher
+                               Gen. Category         910
+                          ST                  442
+                        SC                   29
+                                   Phy. Handicapped       42
+                                                  1423
+            …….             …….              …….             ……            …….
+                 It is nowhere mentioned in the said notice that certain seats
+         are reserved for the OBC category and on the contrary,
+        when the result of the selection was declared, the names
+           of as many as 242 candidates were shown to have been
+          selected against the seats reserved for the OBC category.
+         To contend that the criteria cannot be changed after the
+         process for selection has commenced, the learned counsel
+         appearing for the petitioners has placed reliance on the
+          decision of the Hon’ble Supreme Court in the case of Madan
+       Mohan Sharma Vs. State of Rajasthan & ors, reported in
+
+[2024] 10 S.C.R.                                             27
+     Khunjamayum Bimoti Devi v. The State of Manipur & Ors.
+
+        AIR 2008 SC 1657 wherein the Hon’ble Supreme Court
+         has held that once the advertisement had been issued on
+          the basis of the circular obtaining at that particular time, the
+           effect would be that the selection process should continue
+        on the basis of the criteria which was laid down and  it
+         cannot be on the basis of the criteria which has been made
+          subsequently. The Review DPC had committed error while
+        recommending the candidates belong to OBC category
+         as  if there was reservation for them as per the Notice
+         dated 12-09-2006 and the State respondents had blindly
+         accepted the same. In fairness and in order to give equal
+           opportunity, the State respondents ought to have given a
+          notice to all the candidates that the OM dated 27-12-2006
+         would apply to the then onging selection process and all
+         those candidates, including the petitioners, belonging to
+      OBC category who could not get themselves sponsored
+         as OBC candidates, could have been given an opportunity
+           to do so. In other words, in case certain seats were to be
+         reserved for the OBC, the State respondents must have
+         ensured that all the candidates belonging to OBC category
+        had got themselves sponsored by the Employment Officer.
+                It appears that no such excercise had been done by
+          the State respondents at all in the present case and no
+          opportunity was granted to them. Denial of such opportunity
+           to the petitioners has attracted the provisions of Article 16
+           of the Constitution of India. Failing to do that, the actions
+           of the State respondents are unreasonable, arbitrary
+        and illegal as being violative of Article 14 and 16 of the
+          Constitution of India. The part of the selection process, as
+          indicated above, i.e., from the stage where the error had
+          crept in, is arbitrary, illegal and is liable to be quashed and
+            in other words, the recommendation of the Review DPC,
+           Notification dated 04-09-2011 and the Government order
+         dated 09-12-2011 are liable to be quashed.
+           [11] That since this court having held in the preceding
+         para that the selection of as many as 242 candidates as
+         Primary Teachers against the seats reserved for the OBC
+          category, without the same being mentioned in the Notice
+         dated 12-09-2006, is bad and liable to be quashed, no
+
+28                                                      [2024] 10 S.C.R.
+                      Digital Supreme Court Reports
+
+          order is required to be passed in this writ petition being
+         W.P. (C) No. 127 of 2012 and accordingly, the writ petition
+         stands disposed of.”
+9.   The learned Judge in the judgment dated 06.10.2015 noted that for
+     the written test conducted on 22.12.2006, the answer scripts were
+     destroyed on 15.5.2008. The Court however opined that the Board
+      of Secondary Education did not preserve the answer scripts because
+      of paucity of space and also because of the practice followed by the
+    Board for weeding out answer scripts within a fix time frame. When
+     recruitment for public posts is being made by the State, the preservation
+      of the answer scripts  till reasonable time after the final declaration
+      of result is the prudent course to adopt. This omission was however
+     overlooked which definitely was disappointing for those who failed to
+      qualify in the written test. Since things can’t be undone, we expect all
+    concerned to be mindful of their responsibility in future recruitments,
+      to preserve the answer scripts till the selection process is successfully
+     completed, to obviate similar such allegation of wrong doings.
+10.  As can be seen, the High Court condoned the allegation made by
+     the writ petitioner(s) in Writ Petition (C) No.815 of 2011 about the
+     selection being vitiated by publication of names of the selected
+     candidates in the local newspaper, well before the official declaration
+     of result. The learned judge concluded that this by itself will not
+     warrant interference with the selection process. With such findings,
+     the Writ Petition (C) No.815 of 2011 was partly allowed and the
+    recommendation of the Review DPC, the notification dated 04.09.2011
+    and the related Government Order, were set aside with direction to
+     the State-respondents to constitute a Review DPC to submit fresh
+    recommendation strictly in accordance with the Notification dated
+     12.09.2006. The recommendations were directed to confine to only
+     the unreserved, SC and ST categories. The candidates shortlisted
+      in the OBC category were directed to be excluded altogether from
+     the fresh select list.
+11.  The Writ Petition (C) No.620 of 2011 filed by the appellant
+    Khunjamayum Bimoti Devi was disposed of on 29.03.2016 with
+     the declaration that her case is covered by the judgment and order
+     dated 6.10.2015 in the W.P (C) No.815 of 2011 and W.P (C) No.127
+     of 2012. This judgment of the High Court is under challenge in the
+      Civil Appeal arising out of SLP (Civil) No. 15482 of 2016.
+
+[2024] 10 S.C.R.                                             29
+     Khunjamayum Bimoti Devi v. The State of Manipur & Ors.
+
+12. When the challenge to the High Court judgment dated 06.10.2015
+    came to be considered by this Court, an affidavit dated 11.03.2016
+    came to be filed on behalf of the State of Manipur, by Mr. H. Daleep
+     Singh, Commissioner (Education/S). The said affidavit being of some
+     relevance, is extracted herein below:-
+         “An Affidavit on behalf of the Respondent No.4
+                I, H. Deleep Singh, IAS, now serving as Commissioner
+          (Education/S) Government of Manipur, have gone through
+          the contents of the I.A. No. 2 of 2016 and I am acquainted
+          with the facts of the case and having been authorized by
+          the other State Respondents, I am competent to swear this
+            affidavit and accordingly, I swear this affidavit on solemn
+         oath and affirm as hereunder.
+           1.   That, with reference to para Nos. I and II of the above
+                referred I.A., the answering deponent has no comment
+                to offer as the same are the matter of records.
+           2.   That, with reference to para Nos.  Ill and IV of the
+             above referred I.A., the answering deponent begs to
+              submit that the Respondent No. 6 to 1428 are the
+               selected candidates for appointment to the post of
+              Primary Teachers and they have been serving as
+              Primary Teachers for the last about 5 years in different
+             Schools under the Department of Education (S),
+            Government of Manipur. On considering the length
+                of service rendered by the Respondent Nos. 6 to
+              1428, the Government of Manipur is agreeable to
+            accommodate the Writ petitioners against the existing
+              vacancies if the Hon’ble Supreme Court is pleased
+                to protect the appointment of the Respondent Nos. 6
+                to 1428 and at the same time, the Hon’ble Supreme
+              Court may be pleased to pass an order restraining
+               the unsuccessful candidates who had chosen not to
+              challenge selection process for the last about 5 years
+                to raise any claim in future in order to make the end
+                of litigation on the same issue.
+           In the light of the above facts and circumstances,  it is,
+           therefore, prayed that Your Lordships may graciously be
+
+30                                                      [2024] 10 S.C.R.
+                      Digital Supreme Court Reports
+
+         pleased enough to dispose of the above referred I.A. and
+          the connected SLP No. 32728 of 2015 in the lines stated
+            in para No.2 of the present affidavit for the ends of justice.”
+13.  This Court considered the averments of the Commissioner in the
+    above affidavit and disposed of the challenge to the High Court’s
+     order dated 6.10.2015. The Supreme Court specifically referred to
+     the affidavit (dated 11.3.2016) filed by the State of Manipur and after
+     extracting the contents therein, recorded the following in its order
+     dated 16.03.2016:-
+            “In the circumstances, we deem it appropriate to record that
+        no further claim at the instance of any other unsuccessful
+          candidate on the basis of the present order and undertaking
+          given by the Government shall be entertained by the High
+          Court.
+          Shri Dushyant Dave, learned senior counsel for the
+           petitioner in SLP(C) No. 32728/2015 prayed that the
+         respondent-State be directed to issue the appointment
+         orders within a reasonable period of time as per the
+          undertaking of the State referred to above.
+           In the circumstances, we deem it appropriate to direct the
+          State to issue the appointment orders in favour of the writ
+           petitioners (before the High Court) within a within a period
+           of eight weeks from today.
+         Pending applications, if any, also stand disposed of.”
+14. When this Court disposed of the SLP (Civil) No. 32728 of 2015
+    and Special Leave Petition (Civil) arising out of CC No. 4129 of
+     2016, the Court was not informed that other petitions of aggrieved
+     candidates were also pending in Courts. The Bench passed the order
+    on 16.3.2016 oblivious of the fact that multiple petitions challenging
+     the selection process were pending in the High Court. This Court
+     being unaware about the pendency of other petitions filed by other
+     aspirants, had no occasion to address the concern raised in those
+      petitions and thereby observed that further claim at the instance of
+    any other unsuccessful candidates on the basis of the present order
+    and undertaking given by the Government, shall not be entertained
+    by the High Court.
+
+[2024] 10 S.C.R.                                             31
+     Khunjamayum Bimoti Devi v. The State of Manipur & Ors.
+
+15.  In the affidavit dated 11.03.2016 filed by Mr. H. Daleep Singh,
+    Commissioner (Education/S), it was stated that the respondent Nos.
+    6 to 1428 in the Civil Appeal arising out of SLP (Civil) No. 32728
+     of 2015, are the selected candidates and they have been serving
+    as primary school teachers. It was also averred in the affidavit that
+     the Government of Manipur is agreeable to accommodate the writ
+     petitioners against the existing vacancies. The Supreme Court in the
+     order dated 16.03.2016 barred appointment of those who had chosen
+     not to challenge the selection process for last about 5 years. Such
+     impression in the Commissioner’s affidavit was not only incorrect
+      factually but the same also gave an impression to this Court that
+    no other petitions were pending in the Courts. Therefore, the right
+     of those aspirants in the pending cases was overlooked and not
+    addressed by this Court in its order dated 16.03.2016.
+16.  As can be gathered from the judgment dated 06.10.2015, the
+    Manipur High Court set aside the recommendation for appointment
+     to 242 posts carved out for the OBC category candidates. The said
+    pronouncement was not disturbed by the Supreme Court. In fact
+      this Court did not really adjudicate the merits of the challenge to the
+    High Court’s judgment or had occasion to address the appointment
+     claims of those, whose names may appear in the revised select list,
+      in terms of the High Court’s judgment dated 06.10.2015.
+17. We have considered the nature of the recruitment process challenged
+      in this proceeding. The inevitable conclusion from the foregoing
+     discussion is that the selection list should be redrawn, in terms of
+    High court’s Judgment dated 06.10.2015. Let us now look at the
+     three categories of candidates claiming selection in the redrawn
+      final list. The first category would be those who have qualified the
+     interview and are already included in the list filed before this Court,
+     the second category would be those who have qualified the interview
+     but are not included in said list and the third category would consist
+     of candidates who have not qualified the interview as such but are
+     admitted as OBC candidates.
+18.  The selection of the OBC category candidates was found to be
+     unmerited by the High Court. As can be appreciated the notification
+     dated 12.09.2006 for appointment of 1423 primary teachers notified
+     the State’s reservation policy in the following manner-
+
+32                                                      [2024] 10 S.C.R.
+                      Digital Supreme Court Reports
+
+
+          Primary Teacher
+                             Gen. Category          910
+                        ST                    442
+                      SC                    29
+                                Phy. Handicapped        42
+                                                 1423
+    However, the review DPC noted that by way of the subsequent
+      notification (dated 27.12.2006), the benefit of reservation has been
+    extended to OBC category in the State of Manipur, following the
+     200-point formula.
+19. Some of the selectees (after the revised exercise) may already be
+     serving amongst the OBC category candidates by virtue of their open
+     category merit. They would naturally be accommodated accordingly
+    as per the revised exercise. Some of the selectees (after the revised
+     exercise), could be amongst the appellants/petitioners in these
+    pending cases, who would also be entitled to benefit of selection.
+     Since the appointment to the 242 posts in the OBC category was
+     interfered by the High Court, those posts would now be available
+      for making appointment after the select list is redrawn, in terms of
+     the High Court’s judgment dated 06.10.2015. Since the appellants/
+     petitioners had filed petitions or were agitating their claims for
+     appointment, around the same time as those who secured relief
+      in the WP (C) No.815 of 2011, these claimants in our opinion, also
+    deserve similar consideration.
+20.  Next, we have to consider those who are not before the Court but
+     are in the category of job seekers, who responded to the notification
+     dated 12.09.2006, succeeded in the written test and also appeared
+      in the interview segment. When the select list is being revised in
+     terms of High Court’s order dated 6.10.2015, new names are bound
+     to figure in the revised select list, as per the respective performance
+     of the candidates, in the recruitment test. The question is whether all
+     aspirants whose names find place in the revised select list, pursuant
+     to the course correction process, will secure appointment against
+     the notified 1423 posts of Primary Teachers, irrespective of whether
+     they were litigating for appointment. Should this Court deny relief
+     to them by considering that there is an element of acquiescence
+    by those, who did not move Court? For answer, we may benefit by
+
+[2024] 10 S.C.R.                                             33
+     Khunjamayum Bimoti Devi v. The State of Manipur & Ors.
+
+      referring to the ratio in State of Uttar Pradesh and Others vs. Arvind
+    Kumar Srivastava and Others, reported in (2015) 1 SCC 347 where
+     the following was said:
+           “22. The legal principles which emerge from the reading
+           of the aforesaid judgments, cited both by the appellants
+         as well as the respondents, can be summed up as under.
+          22.1. The normal rule is that when a particular set of
+         employees is given relief by the court, all other identically
+          situated persons need to be treated alike by extending
+           that benefit. Not doing so would amount to discrimination
+        and would be violative of Article 14 of the Constitution of
+           India. This principle needs to be applied in service matters
+        more emphatically as the service jurisprudence evolved
+         by this Court from time to time postulates that all similarly
+           situated persons should be treated similarly. Therefore, the
+         normal rule would be that merely because other similarly
+          situated persons did not approach the Court earlier, they
+         are not to be treated differently.
+          22.2. However, this principle is subject to well recognized
+          exceptions in the form of latches and delays as well as
+         acquiescence. Those persons who did not challenge the
+          wrongful action in their cases and acquiesced into the
+       same and woke up after long delay only because of the
+         reason that their counterparts who had approached the
+          court earlier in time succeeded in their efforts, then such
+         employees cannot claim that the benefit of the judgment
+         rendered in the case of similarly situated persons be
+         extended to them. They would be treated as fence-sitters
+        and laches and delays, and/or the acquiescence, would
+        be a valid ground to dismiss their claim.
+          22.3. However, this exception may not apply in those
+         cases where the judgment pronounced by the court was
+         judgment in rem with intention to give benefit to all similarly
+          situated persons, whether they approached the court or
+           not. With such a pronouncement the obligation is cast
+        upon the authorities to itself extend the benefit thereof to
+              all similarly situated persons. Such a situation can occur
+        when the subject-matter of the decision touches upon
+
+34                                                      [2024] 10 S.C.R.
+                      Digital Supreme Court Reports
+
+          the policy matters, like scheme of regularization and the
+             like. On the other hand, if the judgment of the court was
+            in personam holding that benefit of the said judgment
+           shall accrue to the parties before the court and such an
+           intention is stated expressly in the judgment or it can be
+           impliedly found out from the tenor and language of the
+         judgment, those who want to get the benefit of the said
+         judgment extended to them shall have to satisfy that their
+           petition does not suffer from either laches and delays or
+          acquiescence.”
+21.  The principles laid down in the case of Arvind Kumar Srivastava
+     (supra) are referred by this court in Shoeline vs. Commissioner of
+     Service Tax & Ors.” reported as (2017) 16 SCC 104 to observe that
+    when there is a declaration of law by court, the judgment can be
+     treated as judgment in rem and require equities to be balanced by
+     treating those similarly situated, similarly.
+22.  Therefore, as this Court is directing appointments strictly in
+    accordance with merit of the candidates in the recruitment test, as
+     per the revised list, we are of the view that parity relief should be
+     considered for all similarly situated persons. A differential treatment for
+     those who did not approach the Court earlier may not be warranted
+      in the facts of the present case, by treating them to be fence sitters
+    and would amount to denial of opportunity under Article 14 and Article
+    16 of the Constitution of India. One reason for taking such a view
+      is the prolonged recruitment process commencing from 12.09.2006
+     culminating in the official declaration of result on 04.09.2011,
+     interspersed with multiple litigations by the aggrieved candidates.
+23.  Also, one cannot ignore that the job seekers who participated in the
+     recruitment test following the Board’s notification dated 22.12.2006
+    and are selected, are put in limbo waiting for employment for last
+     several years. So far those who are not yet appointed, the door of
+      justice must be opened as this Court is quite capable of hearing the
+      silent knocks of the selectees, possibly incapacitated to approach
+     the Court by reasons beyond their control.
+24.  That apart, the High Court’s judgment dated 6.10.2015 as earlier
+     stated, must be construed as judgment in rem with intention to give
+     benefit to all similarly situated persons irrespective of whether they
+    were before the Court or not. On the other hand, this Court’s judgment
+
+[2024] 10 S.C.R.                                             35
+     Khunjamayum Bimoti Devi v. The State of Manipur & Ors.
+
+     rendered on 16.03.2016 is confined only to those covered by the
+     order and should be considered to be a judgment in personam. For
+      this reason also, the benefit of the High Court’s judgment dated
+     6.10.2015 should be made available by the State Authorities to
+    everyone as per their respective merit position, in the revised select
+        list, against the notified 1423 posts of Primary Teachers.
+25.   It is also projected that many more vacancies of primary teachers
+    have since become available. As the recruitment process was initiated
+    on 12.9.2006, vacancies are bound to occur by efflux of time but
+     to order appointment against the later vacancies (beyond the 1423
+     posts notified on 12.9.2006) will mean, infringing the rights of those
+    who have since become eligible to apply for consideration, for the
+    subsequent vacancies. Therefore, the beneficiaries of this judgment
+     subject to their respective merit position in the revised select list,
+     should in our opinion be accommodated only against the notified 1423
+     posts. The appointment to the 214 OBC category candidates was set
+     aside by the High Court on 6.10.2015 and the said decision was left
+     undisturbed by the Supreme Court in its judgment dated 16.03.2016
+    and as such these vacancies will be available to accommodate most
+     of the deserving selectees.
+26.  Mr. V. Giri, the learned Senior Counsel representing the State of
+    Manipur in the above context informs the Court that the Primary
+     Teachers who were appointed on 09.12.2011 are serving for over 13
+     years and some of them might have to make way for the selectees.
+     Mr. Anupam Lal Das, the learned senior counsel in his turn submits
+     that the clients he represents were appointed on substantive basis
+    by the Government on 9.12.2011. Despite their long service, a few
+     of them may not find place in the revised select list for adjustment
+     against the 1423 notified vacancies. The submission is that since
+     the cases before the High Court and this Court had continued for
+     over a decade in one form or the other, the appointment of the long
+     serving teachers should be protected.
+27. On the above contention of Mr. Giri supported by Mr. Das, we need
+     to observe that appointment is being ordered for those whose names
+    would figure in the revised select list, strictly in order of merit against
+     the 1423 vacancies notified on 12.9.2006. We do appreciate that
+     the concerned appointees have been serving for over 13 years and
+     disruption of their service may lead to unimaginable hardships for this
+    group of people. It is therefore left to the Government’s discretion to
+
+36                                                      [2024] 10 S.C.R.
+                      Digital Supreme Court Reports
+
+     take a decision for those who are serving and whose names may not
+     figure in the revised select list, in pursuant to the ordered exercise.
+28.  In conclusion, the judgment rendered by the High Court on 6.10.2015
+      in the W.P (C) No.8153 of 2011 and W.P(C) No.127 of 2012 are
+     upheld. In consequence, the appeals/writ petitions filed by the
+     aspirant teachers stand disposed of and those filed by the State
+     of Manipur stand dismissed. The State authorities must draw up
+     the revised select list in terms of the High Court’s judgment within
+    4 weeks from today. The appointment orders for those who figure
+      in the revised select list are ordered to be issued, within 4 weeks
+     of the publication of the select list. By virtue of such appointments,
+     the fresh appointees shall have no claim towards arrears salary. But
+     they shall be granted benefit of notional appointment w.e.f. 9.12.2011
+    when the substantive appointments were given to those who are
+     serving but this notional benefit is ordered only for the purpose of
+     superannuation benefits. It is ordered accordingly.
+29.  Pending application(s),  if any, including impleadment/intervention
+     application(s) stand closed.
+    SPECIAL LEAVE PETITION (CIVIL) No. of 2024 (ARISING OUT OF
+    DIARY NO. 20462 OF 2021)
+1.   Delay condoned.
+2.   In view of the today’s order passed in Civil Appeal arising out of
+    SLP (Civil) No. 15482 of 2016, the Special Leave Petition stands
+     dismissed.
+3.   Pending application(s), if any, shall stand closed.
+     Result of the Case: Matters disposed of.
+
+
+
+     †Headnotes prepared by: Nidhi Jain

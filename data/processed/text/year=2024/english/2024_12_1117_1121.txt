@@ -1,0 +1,181 @@
+       [2024] 12 S.C.R. 1117 : 2024 INSC 992
+
+                   Jyoti Limited
+                               v.
+           BSE Limited & Anr
+                 (Civil Appeal No. 4707 of 2022)
+                10 December 2024
+     [Pankaj Mithal and Sandeep Mehta, JJ.]
+
+                 Issue for Consideration
+Bombay Stock Exchange (BSE) rejected the application of the
+appellant for the listing of certain equity shares to the BSE holding
+that the appellant had not taken in principle approval from the Stock
+Exchange and it also did not take the approval of the shareholders
+for the allotment of the shares to the Asset Reconstruction Private
+Limited (RARE). Order upheld and confirmed by the Securities
+Appellate Tribunal.
+                      Headnotes†
+Securitisation and Reconstruction of Financial Assets and
+Enforcement of Security Act, 2002 – s.9(1) – Companies Act,
+2013 – s.62(1)(c) – SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 – Regulation 28:
+Held: s.9, SARFAESI Act authorizes RARE to convert portion of
+the debt into shares of the borrower company but such authority
+is subject to s.62, Companies Act, 2013 which in turn requires a
+resolution of the shareholders of the company – However, when
+such a proposal is not by the appellant company, the approval of
+the shareholders may not be necessary – On facts, the proposal
+for increasing the subscribed capital of the company by converting
+part of the debt into equity shares was initiated by the appellant
+company itself and not actually by RARE – Therefore, the proposal
+was that of the company only – Accordingly, as contemplated by
+s.62(1)(c), Companies Act, 2013, the approval of the shareholders
+would be mandatory before the shares are accepted for listing on the
+BSE – Furthermore, the approval of the BSE is necessary in view
+of Regulation 28 of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 – No error or illegality committed
+either by the BSE or the Securities Appellate Tribunal – Statutory
+appeal u/s.22 F, Securities Contracts (Regulation) Act, 1956 is
+devoid of merit. [Paras 5, 7-9]
+
+1118                                                    [2024] 12 S.C.R.
+                  Supreme Court Reports
+
+                                List of Acts
+     Securitisation and Reconstruction of Financial Assets and
+     Enforcement of Security Act, 2002; Companies Act, 2013; SEBI
+      (Listing Obligations and Disclosure Requirements) Regulations,
+     2015; Securities Contracts (Regulation) Act, 1956.
+                             List of Keywords
+    Bombay Stock Exchange (BSE); Securities Appellate Tribunal;
+      Listing of equity shares; In principle approval from the Stock
+    Exchange; Approval of the shareholders for the allotment of
+     the shares to the Asset Reconstruction Private Limited (RARE);
+    SARFAESI Act; Convert debt into equity shares; Resolution of
+     the Board of Directors; Approval of the shareholders mandatory;
+     Subscribed capital; Resolution of the shareholders of the company;
+     Special resolution; Proposal for increasing the subscribed capital of
+     the company; Listing of the equity shares at the Stock Exchange/
+    BSE; Approval of the BSE; Statutory appeal.
+                     Case Arising From
+     CIVIL APPELLATE JURISDICTION: Civil Appeal No. 4707 of 2022
+    From the Judgment and Order dated 21.12.2021 of the Securities
+     Appellate Tribunal, Mumbai in Appeal No. 224 of 2019
+                   Appearances for Parties
+    Lakshmeesh S. Kamath, Mrs. Samriti Ahuja, Ms. Aditi Prakash,
+     Advs. for the Appellant.
+     Pratap Venugopal, Sr. Adv., Ms. Surekha Raman, Amarjit Singh
+     Bedi, Shreyash Kumar, Yashwant Sanjenbam, Imilikaba Jamir,
+     M/s. K J John And Co, Rahul Gupta, Advs. for the Respondents.
+            Judgment / Order of the Supreme Court
+                           Order
+
+1.   Heard learned counsel for the parties.
+2.   Under challenge in this statutory appeal is the judgment and order
+     dated 21.12.2021 passed by the Securities Appellate Tribunal, Mumbai
+
+[2024] 12 S.C.R.                                               1119
+                   Jyoti Limited v. BSE Limited & Anr
+
+      in Appeal No. 224 of 2019 titled as “Jyoti Limited Vs. BSE Limited
+    and Anr.”.
+3.   The appellant-Jyoti Limited applied for listing of certain equity shares
+     to the Bombay Stock Exchange1 but the application to that effect
+    was not accepted for the reason that the appellant had not taken in
+      principle approval from the Stock Exchange and that the appellant
+    had not even taken the approval of the shareholders for the allotment
+     of the shares to the Asset Reconstruction Private Limited2. The
+    above order of the BSE rejecting the application of the appellant
+      for the listing of shares was upheld and confirmed by the Securities
+     Appellate Tribunal by the order impugned.
+4.   In assailing the above orders, the submission of learned counsel
+     appearing for the appellant is that Section 9(1) of the Securitisation
+    and Reconstruction of Financial Assets and Enforcement of Security
+     Act, 20023 permits the RARE to take measures such as conversion
+     of any portion of debt into shares of the borrower company i.e., the
+     appellant herein and once such power is exercised, the shares have
+      to be listed on the Stock Exchange. Further submission of the learned
+     counsel for the appellant is that it is only where the company, i.e.,
+     the appellant herein, proposes to increase the subscribed capital,
+     the consent/ the resolution/approval of the shareholders is required,
+    as mandated by Section 62(1)(c) of the Companies Act, 2013. Since
+      in the case at hand the appellant company had not proposed to
+     increase the subscribed capital rather it is the RARE that has done
+         it, no such approval of the shareholders is necessary.
+5.   Section 9 of the SARFAESI Act authorizes RARE to convert portion
+     of the debt into shares of the borrower company but such authority
+      is subject to Section 62 of the Companies Act, 2013 which in turn
+     requires a resolution of the shareholders of the company. However,
+    when such a proposal is not by the appellant company, the approval
+     of the shareholders may not be necessary.
+6.   Notwithstanding the above, in the case at hand,  it is evident that
+     the appellant company had entered into discussion with RARE
+
+
+
+1   BSE for short
+2   RARE for short
+3   SARFAESI Act for short
+
+1120                                                    [2024] 12 S.C.R.
+                  Supreme Court Reports
+
+    and  it was agreed upon between the parties to convert part of its
+     outstanding debts of Rs.32.80 Crore into equity shares. Accordingly,
+    a resolution of the Board of Directors of the appellant company was
+    passed to the above effect on 02.05.2018 but such an action was
+     never endorsed by the shareholders of the company. Thereafter,
+     the appellant company itself filed an application before the BSE
+    on 15.05.2018 for listing of the shares i.e. 59,63,636 equity shares
+      allotted to the RARE.
+7.   Having considered the relevant provisions of the law and the
+     submissions advanced by the learned counsel for the appellant, we
+      find that the conversion of the debt into additional shares had taken
+     place with the agreement of the appellant company and RARE, and
+         it is on the basis of such an agreement between the parties that a
+     resolution was passed on 02.05.2018 by the Board of Directors of
+     the appellant company accepting the proposal to convert the debt
+      into shares and to allot them in favor of RARE, thus, resulting in
+     increase of the equity capital of the appellant company. Even the
+     application for listing of the aforesaid additional shares was made by
+     the appellant company to the BSE meaning thereby that the proposal
+      for increasing the subscribed capital of the company by converting
+     part of the debt into equity shares, as aforesaid, was initiated by the
+     appellant company itself and not actually by RARE. Therefore, the
+     proposal was that of the company only. Accordingly, as contemplated
+    by Section 62(1)(c) of the Companies Act, 2013, the approval of the
+     shareholders would be mandatory before the shares are accepted
+      for listing on the BSE.
+8.   Insofar as the other ground for rejection of the application is
+    concerned, that is to say, for want of approval of the BSE, the
+     Securities Appellate Tribunal has returned a clear finding that the
+     approval of the BSE is necessary in view of Regulation 28 of the
+    SEBI (Listing Obligations and Disclosure Requirements) Regulations,
+    2015 and we do not have different opinion on  it rather we accept
+     the said finding which is not perverse in any manner.
+9.   In view of the aforesaid facts and circumstances, we are of the
+     opinion that no error or illegality has been committed either by the
+   BSE or the Securities Appellate Tribunal in refusing to accept the
+     request of the appellant company for the listing of the shares at
+     the Stock Exchange inasmuch as Section 62 of the Companies
+
+[2024] 12 S.C.R.                                             1121
+                   Jyoti Limited v. BSE Limited & Anr
+
+     Act stands duly attracted and in the light of sub-clause (c) of sub-
+     section (1) of Section 62 of the Companies Act, special resolution of
+     the shareholders is necessary which is lacking in the instant case.
+10.  The aforesaid order has been passed by us in the peculiar facts and
+     circumstances of this case where the appellant company itself has
+    passed the resolution and applied for the listing of shares and as
+    such is deemed to be the proposer for increasing the share capital.
+11.  Accordingly, this statutory appeal under Section 22 F of Securities
+     Contracts (Regulation) Act, 1956 is devoid of merit and is dismissed.
+12.  Pending application(s), if any, shall stand disposed of.
+
+     Result of the case: Appeal dismissed.
+
+
+
+     †Headnotes prepared by: Divya Pandey

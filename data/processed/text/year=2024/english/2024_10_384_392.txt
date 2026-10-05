@@ -1,0 +1,346 @@
+           [2024] 10 S.C.R. 384 : 2024 INSC 774
+
+                  State Bank of India
+                                  v.
+            India Power Corporation Limited
+                    (Civil Appeal No. 10424 of 2024)
+                   27 September 2024
+[Dr Dhananjaya Y Chandrachud, CJI and Manoj Misra, J.]
+
+                     Issue for Consideration
+   The issue which arises for consideration is the interpretation
+    of Rule 50 of the National Company Law Tribunal Rules, 2016
+   (NCLT Rules) and Rule 22 of the National Company Law Appellate
+    Tribunal Rules, 2016 (NCLAT Rules).
+                         Headnotes†
+   National Company Law Tribunal Rules, 2016 – Rule 50 –
+   National Company Law Appellate Tribunal Rules, 2016 –
+   Rule 22 – Interpretation of:
+   Held: Rule 22(2) of the NCLAT Rules requires that every appeal
+    shall be accompanied by a certified copy of the impugned
+    order – Rule 50 of the NCLT Rules prescribes that the Registry
+    shall send a certified copy of the final order free of cost and
+    certified copies may be made available on payment of costs in
+   terms of the Schedule of Fees in all other cases – Both the
+    certified copy which is made available free of cost as well as the
+    certified copy which is made available on the payment of costs,
+   are treated as certified copies for the purpose of Rule 50 – A
+     litigant who does not apply for a certified copy cannot then fall
+   back and claim that he was awaiting the grant of a free copy to
+    obviate the bar of limitation. [Para 19]
+   National Company Law Tribunal Rules, 2016 – Rule 50 –
+   National Company Law Appellate Tribunal Rules, 2016 –
+   Rule 22 – Before NCLAT, appellant filed an application for
+   condonation of delay on the ground that the appeal was lodged
+   with delay of 3 days beyond the 30 day period prescribed – A
+   divergence arose between the two members of the NCLAT –
+   The third member agreed with the judicial member in
+   dismissing the application for condonation of delay:
+
+[2024] 10 S.C.R.                                            385
+        State Bank of India v. India Power Corporation Limited
+
+     Held: The Judicial Member, NCLAT held that the certified copy
+     which was filed by the appellant was a “free of cost” copy and hence
+      in the absence of an application for the grant of a certified copy,
+     the delay of three days could not be condoned – The Technical
+    Member, on the other hand, held that no distinction could be made
+    between certified copies obtained through the payment of fee and
+    a free copy and sufficient cause was shown for condoning the
+     delay of three days – The third member agreed with the judicial
+    member – In the instant case, the free copy was made available
+    on 14.11.2023 after the decision of the NCLT was pronounced
+    on 30.10.2023 – The appeal was lodged on 02.12.2023 – The
+     appeal was lodged with a delay of only three days beyond the
+      statutory period of 30 days and, therefore, fell within the condonable
+     period of 15 days – Sufficient cause was shown for condoning the
+     delay of three days – A Schedule of Fees is prescribed by the
+    NCLT Rules – Entry 31 of the Schedule stipulates that the fee
+      for obtaining true certified copies of final orders passed to parties
+     other than the concerned parties under Rule 50 shall be Rupees
+      five per page – The stipulation of Rupees five per page in Entry 31
+     excludes “the concerned parties under Rule 50” – The provisions
+      of Rule 50 of the NCLT Rules place both the free certified copy
+     as well as the certified copy which is applied for on payment of
+     fees on the same footing – The appeal in the present case was
+       filed within the condonable period of 15 days, which should have
+    been condoned – Accordingly, the delay of three days in filing the
+     appeal shall stand condoned. [Paras 5, 20, 21, 22, 23]
+                      Case Law Cited
+    V Nagarajan v. SKS Ispat and Power Limited & Ors. [2021] 14
+   SCR 736 : (2022) 2 SCC 244 – relied on.
+                                List of Acts
+     National Company Law Tribunal Rules, 2016; National Company
+    Law Appellate Tribunal Rules, 2016; Insolvency and Bankruptcy
+    Code, 2016.
+                             List of Keywords
+      Interpretation of Rule 50 of the National Company Law Tribunal
+     Rules, 2016; Rule 22 of the National Company Law Appellate
+     Tribunal Rules, 2016; Section 61(2) of Insolvency and Bankruptcy
+    Code, 2016; Condonation of delay; Certified copy of order; Free
+      of costs; Payment of costs; Bar of limitation.
+
+386                                                     [2024] 10 S.C.R.
+                      Digital Supreme Court Reports
+
+                     Case Arising From
+     CIVIL APPELLATE JURISDICTION: Civil Appeal No. 10424 of 2024
+    From the Judgment and Order dated 09.07.2023 of the National
+    Company Law Appellate Tribunal, Chennai Bench in I.A. No. 158 of
+    2024 in Company Appeal (AT)(CH)(INS) No. 53 of 2024
+                   Appearances for Parties
+    Tushar Mehta, SG, Madhav Kanoria, Ms. Surabhi Khattar, Ms. Neha
+     Shivhare, Sriharsh Raj, M/s. Cyril Amarchand Mangaldas, Advs. for
+     the Appellant.
+     Dr. Abhishek Manu Singhvi, Sr. Adv., Anirban Bhattacharya, Rajeev
+    Chowdhary, Ms. Priyanka Bhatt, Pranjit Bhattacharya, Advs. for the
+    Respondent.
+            Judgment / Order of the Supreme Court
+                           Order
+1.  On a difference between two members of the National Company
+    Law Appellate Tribunal,1 reflected in a split verdict on 1 May 2024,
+     the third Member, by a judgment dated 9 July 2024, agreed with the
+      Judicial Member in dismissing the application for condonation of delay.
+2.   The facts, insofar as they are relevant for the disposal of the Appeal,
+       fall in a narrow compass.
+3.   The appellant, State Bank of India, instituted an application under
+     Section 7 of the Insolvency and Bankruptcy Code 20162 against the
+     respondent. The National Company Law Tribunal3 at Hyderabad
+     rejected the petition on the ground of maintainability by an order
+     dated 30 October 2023.
+4.   The appeal before the NCLAT, Chennai was filed on 2 December
+     2023. The appellant filed an application for condonation of delay on
+     the ground that the appeal had been lodged with a delay of 3 days
+    beyond the 30 day period prescribed in Section 61(2).
+
+
+
+1    “NCLAT”
+2    “IBC”
+3    “NCLT”
+
+[2024] 10 S.C.R.                                            387
+        State Bank of India v. India Power Corporation Limited
+
+5.  A divergence arose between the two members of the NCLAT on 1
+    May 2024. The Judicial Member held that the certified copy which
+    was filed by the appellant was a “free of cost” copy and hence in the
+    absence of an application for the grant of a certified copy, the delay
+     of three days could not be condoned. The Technical Member, on the
+     other hand, held that no distinction could be made between certified
+     copies obtained through the payment of fee and a free copy and
+      sufficient cause was shown for condoning the delay of three days.
+6.   The divergence was, thereafter, referred to a third Member of the
+    NCLAT who has ruled that the free copy provided under Rule 50 of
+     the National Company Law Tribunal Rules 20164 cannot be treated
+    as a certified copy which is referred to in Rule 22(2) of the National
+    Company Law Appellate Tribunal Rules 2016.5
+7.   The appeal has been consequently dismissed on delay on 9 July 2024.
+8.   The issue which arises for consideration turns on the interpretation
+     of Rule 50 of the NCLT Rules and Rule 22 of the NCLAT Rules.
+9.  An appeal to the appellate authority is governed by the provisions
+     of Section 61(2) of the IBC which provides as follows :
+           “61.(2) Every appeal under sub-section (1) shall be filed
+          within thirty days before the National Company Law
+          Appellate Tribunal:
+         Provided that the National Company Law Appellate Tribunal
+       may allow an appeal to be filed after the expiry of the
+          said period of thirty days  if  it is satisfied that there was
+            sufficient cause for not filing the appeal but such period
+           shall not exceed fifteen days.”
+10.  Rule 50 of the NCLT Rules provides as follows :
+           “50. Registry to send certified copy.—The Registry shall
+        send a certified copy of final order passed to the parties
+         concerned free of cost and the certified copies may be
+       made available with cost as per Schedule of fees, in all
+          other cases.”
+
+
+
+4    “The NCLT Rules”
+5    “The NCLAT Rules”
+
+388                                                     [2024] 10 S.C.R.
+                      Digital Supreme Court Reports
+
+11.  Rule 22 of the NCLAT Rules is in the following terms :
+           “22. Presentation of appeal.—(1) Every appeal shall be
+         presented in Form NCLAT-1 in triplicate by the appellant
+          or petitioner or applicant or respondent, as the case may
+          be, in person or by his duly authorised representative
+          duly appointed in this behalf in the prescribed form with
+           stipulated fee at the filing counter and non-compliance of
+            this may constitute a valid ground to refuse to entertain
+          the same.
+           (2) Every appeal shall be accompanied by a certified copy
+           of the impugned order.
+           (3) All documents filed in the Appellate Tribunal shall be
+        accompanied by an index in triplicate containing their
+           details and the amount of fee paid thereon.
+           (4) Sufficient number of copies of the appeal or petition or
+           application shall also be filed for service on the opposite
+          party as prescribed.
+           (5) In the pending matters, all other applications shall be
+         presented after serving copies thereof in advance on the
+          opposite side or his advocate or authorised representative.
+           (6) The processing fee prescribed by the rules, with required
+        number of envelopes of sufficient size and notice forms
+         as prescribed shall be filled along with memorandum of
+          appeal.”
+12.  Rule 22(1) provides for
+        (i)   the presentation of an appeal in Form NCLAT-1;
+        (ii)   the person by whom the appeal may be filed; and
+         (iii)  the submission of the stipulated fee. Rule 22(2) stipulates that
+          “every appeal shall be accompanied by a certified copy of the
+        impugned order”.
+13.  Rule 50 of the NCLT Rules governs the furnishing of certified copies.
+    Rule 50 indicates that the Registry shall send a certified copy of the
+      final order which has been passed to the parties concerned free of
+     cost. It also indicates that certified copies may be made available
+     against the payment of costs in terms of the Schedule of Fees, in
+
+[2024] 10 S.C.R.                                            389
+        State Bank of India v. India Power Corporation Limited
+
+     other cases. Rule 50 provides for a certified copy being provided free
+     of cost and that a certified copy may be made available against the
+    payment of costs, as indicated in the Schedule of Fees. The important
+     point to note is that both the certified copy which is provided free of
+     cost as well as the certified copy which is made on an application in
+     that behalf are treated as certified copies for the purposes of Rule 50
+14. Ms Surbhi Khattar, counsel has appeared on behalf of the appellant.
+    The Solicitor General, Mr. Tushar Mehta, has also addressed the
+     Court.
+15. Ms Khattar has submitted that Rule 50 of the NCLT Rules places
+     both the certified copy which is provided free of cost as well as the
+      certified copy which is made available against the payment of costs
+    as indicated in the Schedule of Fees on the same footing. It has
+    been urged that as a matter of fact, the free certified copy was made
+     available on 14 November 2023 and the appeal which was filed on
+    2 December 2023 was well within the condonable period of 15 days
+    beyond the period of 30 days which is stipulated in Section 61(2).
+16. On the other hand, Dr Abhishek Manu Singhvi, senior counsel
+    appearing on behalf of the respondents placed reliance on the
+     decision of the three Judge Bench in V Nagarajan Vs SKS Ispat
+    and Power Limited & Ors6 (paragraphs 23 and 29).
+17.  In order to consider the submissions which has been urged on behalf
+     of the respondent, it would be necessary to extract paragraphs 23
+    and 29 of the above decision which read as follows :
+           “23. Therefore in a field which is not covered by a special
+         law which invests NCLT with jurisdiction, the general
+           principle for the computation of limitation for filing an
+         appeal against an order of NCLT is governed by the
+           statutory mandate of Section 420(3) of the Companies
+         Act read with Rule 50 of the NCLT Rules, which enables
+        a party to compute limitation from the date of receipt of
+          the statutorily mandated free certified copy, without having
+           to file its own application. However, the decision of this
+         Court in Sagufa Ahmed [Sagufa Ahmed v. Upper Assam
+        Plywood Products (P) Ltd., (2021) 2 SCC 317 : (2021) 2
+
+
+6    [2021] 14 SCR 736 : (2022) 2 SCC 244
+
+390                                                     [2024] 10 S.C.R.
+                      Digital Supreme Court Reports
+
+      SCC (Civ) 178] clarifies that the statutory mandate of a
+           free copy is not to enable litigants to take two bites at the
+         apple where they could compute limitation from either when
+          the certified copy is received on the litigant’s application
+          or received as a free copy from the Registry—whichever
+             is later.
+                     XXX XXX XXX
+          29. On the question of a certified copy for filing an appeal
+          against an order passed by NCLT under IBC, Rule 22(2)
+           of the NCLAT Rules mandates that an appeal has to be
+            filed with a certified copy of the “impugned order”:
+                “22. Presentation of appeal.— (1) Every appeal shall
+            be presented in Form Nclat-1 in triplicate by the
+               appellant or petitioner or applicant or respondent, as
+               the case may be, in person or by his duly authorised
+               representative duly appointed in this behalf in the
+               prescribed form with stipulated fee at the filing counter
+            and non-compliance of this may constitute a valid
+             ground to refuse to entertain the same.
+                 (2) Every appeal shall be accompanied by a certified
+             copy of the impugned order.”
+                                         (emphasis supplied)
+         Therefore,  it cannot be said that the parties can
+          automatically dispense with their obligation to apply for
+        and obtain a certified copy for filing an appeal. Any delay
+           in receipt of a certified copy, once an application has
+        been filed, has been envisaged by the legislature and
+          duly excluded to not cause any prejudice to a litigant’s
+           right to appeal.”
+18.  In V Nagarajan, the order of the NCLT was dated 31 December 2019
+    and was uploaded on the website on 12 March 2020. There was a
+     correction in the name of the Judicial Member who had passed the
+     order on 20 March 2020. The appellant before this Court claimed
+     to have awaited the issue of a free copy and allegedly sought a
+     free copy on 23 March 2020 under the provisions Section 420(3)
+     of the Companies Act 2013 read with Rule 50 of the NCLT Rules.
+
+[2024] 10 S.C.R.                                            391
+        State Bank of India v. India Power Corporation Limited
+
+    He claimed that the free copy had not been made available to him
+      until that date and that in the meantime, the COVID-19 pandemic
+    had intervened. The NCLAT, by its order dated 13 July, 2020, relied
+    on Section 61(2) and came to the conclusion that the appeal was
+     barred by limitation. It is in this context that this Court in paragraph
+    23 of its decision (extracted above) observed that the mandate of
+    a free copy was not to enable litigants to take “two bites at the
+     apple where they could compute limitation from either when the
+      certified copy is received on the litigant’s application or received
+    as a free copy from the Registry—whichever is later”. This Court,
+     therefore, held that parties could not automatically dispense with
+      their obligation to apply for and obtain a certified copy for filing an
+     appeal.
+19.  Rule 22(2) of the NCLAT Rules requires that every appeal shall be
+    accompanied by a certified copy of the impugned order. Rule 50 of
+     the NCLT Rules prescribes that the Registry shall send a certified
+    copy of the final order free of cost and certified copies may be made
+     available on payment of costs in terms of the Schedule of Fees in
+       all other cases. Both the certified copy which is made available free
+     of cost as well as the certified copy which is made available on the
+    payment of costs, are treated as certified copies for the purpose of
+    Rule 50. A litigant who does not apply for a certified copy cannot then
+       fall back and claim that he was awaiting the grant of a free copy to
+     obviate the bar of limitation. This was the position in the decision of
+      this Court in V Nagarajan.
+20.  The facts of the present case are completely distinguishable. The free
+    copy was made available on 14 November 2023 after the decision
+     of the NCLT was pronounced on 30 October 2023. The appeal was
+     lodged on 2 December 2023. The appeal was lodged with a delay of
+     only three days beyond the statutory period of 30 days and, therefore,
+       fell within the condonable period of 15 days. Sufficient cause was
+    shown for condoning the delay of three days.
+21. A Schedule of Fees is prescribed by the NCLT Rules. Entry 31 of
+     the Schedule stipulates that the fee for obtaining true certified copies
+     of final orders passed to parties other than the concerned parties
+    under Rule 50 shall be Rupees five per page. The stipulation of
+    Rupees five per page in Entry 31 excludes “the concerned parties
+    under Rule 50”.
+
+392                                                     [2024] 10 S.C.R.
+                      Digital Supreme Court Reports
+
+22.  The provisions of Rule 50 of the NCLT Rules place both the free
+      certified copy as well as the certified copy which is applied for on
+    payment of fees on the same footing. The appeal in the present case
+    was filed within the condonable period of 15 days, which should
+    have been condoned.
+23. We accordingly allow the appeal and set aside the impugned judgment
+    and order of the NCLAT dated 7 May 2024. The delay of three days
+      in filing the appeal shall stand condoned. The appeal shall stand
+     restored to the file of the NCLAT.
+24.  The Court would wish to record its appreciation of the meticulous
+    manner in which Ms Surbhi Khattar, appearing for the appellant had
+     prepared the case and made submissions.
+25.  Pending applications, if any, stand disposed of.
+     Result of the Case: Appeal allowed.
+
+
+
+     †Headnotes prepared by: Ankit Gyan
