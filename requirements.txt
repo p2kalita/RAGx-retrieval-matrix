@@ -22,3 +22,7 @@ jinja2>=3.1.0
 openai 
 python-dotenv
 google-genai
+transformers 
+accelerate 
+bitsandbytes 
+sentencepiece
