@@ -1,6 +1,6 @@
 # NYAYaRAG: An Evidence-Grounded Legal Research Assistant with Safe Abstention
 
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.12.13](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 [![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-3.0+-green.svg)](https://sbert.net/)
 [![Google GenAI](https://img.shields.io/badge/Google--GenAI-Gemini--3.5--Flash--Lite-orange.svg)](https://ai.google.dev/)
