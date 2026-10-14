@@ -336,16 +336,140 @@ python notebook_5/10_run_all_generation_and_evaluations.py
 
 If you utilize the NYAYaRAG framework, methodology, statistical power design, or benchmark datasets in your research, please cite:
 
+## 8.1 Retrieval-Augmented Generation (RAG)
+
+This foundational work describes combining a generative model with retrieved external knowledge for knowledge-intensive NLP tasks.
+
+### Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+
 ```bibtex
-@article{nyayarag2026,
-  title={NYAYaRAG: An Evidence-Grounded Legal Research Assistant with Safe Abstention for Indian Supreme Court Jurisprudence},
-  author={Chowdhary, Harshali and Kalita, P.},
-  journal={Research Technical Report},
-  year={2026},
-  institution={NyayaRAG Project},
-  url={https://github.com/p2kalita/NyayaRAG}
+@inproceedings{lewis2020rag,
+  title={Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks},
+  author={Lewis, Patrick and Perez, Ethan and Piktus, Aleksandra and Petroni, Fabio and Karpukhin, Vladimir and Goyal, Naman and K{\"u}ttler, Heinrich and Lewis, Mike and Yih, Wen-tau and Rockt{\"a}schel, Tim and Riedel, Sebastian and Kiela, Douwe},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2020},
+  url={https://arxiv.org/abs/2005.11401}
 }
 ```
+
+## 8.2 Sparse Retrieval and Traditional Information Retrieval
+
+### The Probabilistic Relevance Framework: BM25 and Beyond
+
+```bibtex
+@article{robertson2009probabilistic,
+  title={The Probabilistic Relevance Framework: {BM25} and Beyond},
+  author={Robertson, Stephen and Zaragoza, Hugo},
+  journal={Foundations and Trends in Information Retrieval},
+  volume={3},
+  number={4},
+  pages={333--389},
+  year={2009},
+  doi={10.1561/1500000019}
+}
+```
+
+### Term-Weighting Approaches in Automatic Text Retrieval
+
+```bibtex
+@article{salton1988term,
+  title={Term-Weighting Approaches in Automatic Text Retrieval},
+  author={Salton, Gerard and Buckley, Christopher},
+  journal={Information Processing & Management},
+  volume={24},
+  number={5},
+  pages={513--523},
+  year={1988},
+  doi={10.1016/0306-4573(88)90021-0}
+}
+```
+
+## 8.3 Dense Retrieval and Text Embeddings
+
+### Dense Passage Retrieval for Open-Domain Question Answering
+
+```bibtex
+@inproceedings{karpukhin2020dpr,
+  title={Dense Passage Retrieval for Open-Domain Question Answering},
+  author={Karpukhin, Vladimir and Oguz, Barlas and Min, Sewon and Lewis, Patrick and Wu, Ledell and Edunov, Sergey and Chen, Danqi and Yih, Wen-tau},
+  booktitle={Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing},
+  pages={6769--6781},
+  year={2020},
+  doi={10.18653/v1/2020.emnlp-main.550},
+  url={https://aclanthology.org/2020.emnlp-main.550/}
+}
+```
+
+### Sentence-BERT: Sentence Embeddings Using Siamese BERT-Networks
+
+```bibtex
+@inproceedings{reimers2019sbert,
+  title={Sentence-BERT: Sentence Embeddings Using Siamese BERT-Networks},
+  author={Reimers, Nils and Gurevych, Iryna},
+  booktitle={Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing},
+  pages={3982--3992},
+  year={2019},
+  doi={10.18653/v1/D19-1410},
+  url={https://aclanthology.org/D19-1410/}
+}
+```
+
+## 8.4 Retrieval Models, Reranking, and Benchmarking
+
+### ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT
+
+```bibtex
+@inproceedings{khattab2020colbert,
+  title={ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT},
+  author={Khattab, Omar and Zaharia, Matei},
+  booktitle={Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={39--48},
+  year={2020},
+  doi={10.1145/3397271.3401075}
+}
+```
+
+### BEIR: A Heterogeneous Benchmark for Zero-shot Evaluation of Information Retrieval Models
+
+```bibtex
+@inproceedings{thakur2021beir,
+  title={BEIR: A Heterogeneous Benchmark for Zero-shot Evaluation of Information Retrieval Models},
+  author={Thakur, Nandan and Reimers, Nils and R{\"u}ckl{\'e}, Andreas and Srivastava, Abhishek and Gurevych, Iryna},
+  booktitle={Advances in Neural Information Processing Systems, Datasets and Benchmarks Track},
+  year={2021},
+  url={https://openreview.net/forum?id=wCu6T5xFjeJ}
+}
+```
+
+## 8.5 Long-Context and Evidence Utilization
+
+### Lost in the Middle: How Language Models Use Long Contexts
+
+```bibtex
+@article{liu2024lost,
+  title={Lost in the Middle: How Language Models Use Long Contexts},
+  author={Liu, Nelson F. and Lin, Kevin and Hewitt, John and Paranjape, Ashwin and Bevilacqua, Michele and Petroni, Fabio and Liang, Percy},
+  journal={Transactions of the Association for Computational Linguistics},
+  volume={12},
+  pages={157--173},
+  year={2024},
+  doi={10.1162/tacl_a_00638},
+  url={https://aclanthology.org/2024.tacl-1.9/}
+}
+```
+
+## 8.6 How to Apply These Citations
+
+Use references where they directly inform the implementation, experimental design, or interpretation of NYAYaRAG:
+
+- **RAG architecture and grounding:** Lewis et al. (2020).
+- **Sparse lexical retrieval / TF-IDF:** Salton and Buckley (1988).
+- **BM25 retrieval:** Robertson and Zaragoza (2009).
+- **Dense passage retrieval:** Karpukhin et al. (2020).
+- **Sentence embeddings and semantic similarity:** Reimers and Gurevych (2019).
+- **Neural retrieval and late interaction:** Khattab and Zaharia (2020).
+- **Retrieval benchmarking:** Thakur et al. (2021).
+- **Long-context evidence placement:** Liu et al. (2024).
 
 ---
 
@@ -358,5 +482,5 @@ If you utilize the NYAYaRAG framework, methodology, statistical power design, or
 ---
 
 <p align="center">
-  <b>NYAYaRAG Research Initiative &copy; 2026 &bull; Developed for Transparent, Evidence-Grounded Legal Informatics</b>
+  <b>DataMindsLab Research Initiative &copy; 2026 &bull; Developed for Transparent, Evidence-Grounded Legal Informatics</b>
 </p>
