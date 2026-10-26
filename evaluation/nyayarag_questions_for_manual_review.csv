@@ -1,0 +1,11 @@
+﻿Question_ID,Evaluated_Question,humanization_score,indian_english_authenticity_score,reconstruction_plausibility_score,overall_quality_score,evaluation_confidence,legal_risk_flags,suggested_revision,Needs_Review
+RAW010,"What are the mandatory preconditions for exercise of the power to summon additional accused persons during trial, and what degree of evidentiary satisfaction must the court record in its order before invoking that power?",90,95,20,85,High,[],,True
+RAW015,"How can a magistrate certify the correctness of a confessional statement recorded during investigation, and what safeguards must be followed so that the recorded statement can later be relied upon by the trial court as being voluntary?",90,95,20,86,Low,[],,True
+RAW007,"What are the essential ingredients required to establish the offence of criminal breach of trust, and how can it be distinguished from a mere civil dispute over money?",95,95,25,87,Low,[],No linguistic revision is needed for the question's quality. The issue lies in the reconstruction's fidelity to the unknown original question.,True
+RAW001,Under what circumstances can delay in lodging an FIR be considered adequately explained?,90,95,60,89,Low,[],,True
+RAW006,"Under what circumstances can a court permit amendment of pleadings after the commencement of trial, and what factors should guide the exercise of its judicial discretion?",90,95,70,90,Low,[],,True
+RAW012,Can a civil suit for damages on account of murder be maintained when the accused has already been acquitted in the criminal trial for the same incident?,90,95,90,92,High,[],,False
+RAW004,When may a court interfere with an arbitral award while exercising its limited supervisory jurisdiction?,95,95,90,94,High,[],,False
+RAW005,What are the conditions for granting anticipatory bail to an accused?,95,95,90,94,High,[],,False
+RAW002,Can a conviction be sustained solely on the testimony of a single witness?,95,95,95,96,High,[],,False
+RAW017,Can an authorised signatory be convicted under the Negotiable Instruments Act for dishonour of a cheque issued on behalf of the company?,95,98,95,96,High,[],,False
