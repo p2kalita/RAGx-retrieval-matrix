@@ -6,177 +6,208 @@
 <title>NyayaRAG Research Ebook</title>
 <style>
 :root {
-  --bg: #fbfaf7; --fg: #1f2328; --muted: #6b7076; --accent: #8a3b12; --rule: #e3dfd6;
-  --panel: #f3f0e8; --code-bg: #f6f4ef; --sidebar: #f1ede4; --table-head: #ece7dc;
-  --link: #8a3b12;
+  --bg: #f3f6fa; --fg: #17283e; --muted: #53677d; --accent: #0072a8; --rule: #dce4ee;
+  --panel: #f4f7fb; --code-bg: #f7f9fc; --sidebar: #ffffff; --table-head: #eaf1ff;
+  --link: #0072a8; --navy: #005b87; --card: #ffffff; --hover: #f0f5ff;
+  --head-grad: linear-gradient(120deg, #f0f5ff, #fff 80%);
+  --pill-bg: #e2ecff; --pill-fg: #174daf; --button-line: #c4d0e0;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --bg: #17181b; --fg: #e4e2dd; --muted: #9a9ea5; --accent: #e59866; --rule: #2e3036;
-    --panel: #1f2125; --code-bg: #1d1f23; --sidebar: #1b1c20; --table-head: #262830;
-    --link: #e59866;
+    --bg: #0e1a28; --fg: #e3ecf5; --muted: #93a7bc; --accent: #5cb8e6; --rule: #233548;
+    --panel: #142336; --code-bg: #111f30; --sidebar: #12202f; --table-head: #1a2d44;
+    --link: #5cb8e6; --navy: #003f5f; --card: #12202f; --hover: #1a2d44;
+    --head-grad: linear-gradient(120deg, #1a2d44, #12202f 80%);
+    --pill-bg: #1d3a5c; --pill-fg: #b9d6ff; --button-line: #2f4660;
   }
 }
 :root[data-theme="dark"] {
-  --bg: #17181b; --fg: #e4e2dd; --muted: #9a9ea5; --accent: #e59866; --rule: #2e3036;
-  --panel: #1f2125; --code-bg: #1d1f23; --sidebar: #1b1c20; --table-head: #262830;
-  --link: #e59866;
+  --bg: #0e1a28; --fg: #e3ecf5; --muted: #93a7bc; --accent: #5cb8e6; --rule: #233548;
+  --panel: #142336; --code-bg: #111f30; --sidebar: #12202f; --table-head: #1a2d44;
+  --link: #5cb8e6; --navy: #003f5f; --card: #12202f; --hover: #1a2d44;
+  --head-grad: linear-gradient(120deg, #1a2d44, #12202f 80%);
+  --pill-bg: #1d3a5c; --pill-fg: #b9d6ff; --button-line: #2f4660;
 }
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 body { margin: 0; background: var(--bg); color: var(--fg);
-  font: 17px/1.65 Georgia, "Iowan Old Style", "Palatino Linotype", serif; }
+  font: 16px/1.65 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
 a { color: var(--link); }
+a:focus-visible, button:focus-visible, summary:focus-visible { outline: 3px solid #f49e29; outline-offset: 4px; }
 code, pre { font-family: "JetBrains Mono", Consolas, "SFMono-Regular", Menlo, monospace; font-size: 0.82em; }
-.layout { display: grid; grid-template-columns: 300px minmax(0, 1fr); }
-nav.toc { position: sticky; top: 0; height: 100vh; overflow-y: auto; background: var(--sidebar);
-  border-right: 1px solid var(--rule); padding: 24px 18px; font: 14px/1.45 system-ui, sans-serif; }
-nav.toc .brand { font-weight: 700; font-size: 18px; margin-bottom: 4px; }
+.layout { display: grid; grid-template-columns: 320px minmax(0, 1fr); gap: 28px;
+  max-width: 1600px; margin: 0 auto; padding: 32px 4vw 0; align-items: start; }
+nav.toc { position: sticky; top: 20px; max-height: calc(100vh - 40px); overflow-y: auto; background: var(--sidebar);
+  border: 1px solid var(--rule); border-radius: 18px; padding: 22px 10px 18px; font: 14px/1.4 system-ui, sans-serif; }
+nav.toc .brand { font-weight: 750; font-size: 19px; letter-spacing: -.5px; padding: 0 12px; }
+nav.toc .brand + .muted { padding: 0 12px 14px; margin: 0 -10px; border-bottom: 1px solid var(--rule); padding-left: 22px; }
 nav.toc ol { list-style: none; padding: 0; margin: 0; }
-nav.toc > ol > li { margin: 14px 0 4px; }
-nav.toc > ol > li > a { font-weight: 600; color: var(--fg); text-decoration: none; }
-nav.toc ol ol { margin: 4px 0 0 8px; }
-nav.toc ol ol a { color: var(--muted); text-decoration: none; display: block; padding: 2px 0; }
-nav.toc a:hover { color: var(--accent); }
-nav.toc .theme { margin-top: 20px; }
-nav.toc button { font: inherit; background: var(--panel); color: var(--fg); border: 1px solid var(--rule);
-  border-radius: 6px; padding: 4px 10px; cursor: pointer; }
-main { padding: 48px clamp(16px, 5vw, 72px) 120px; max-width: 1080px; }
-.cover { min-height: 80vh; display: flex; flex-direction: column; justify-content: center;
-  border-bottom: 1px solid var(--rule); margin-bottom: 48px; }
-.cover .kicker { font: 600 13px system-ui, sans-serif; letter-spacing: .14em; text-transform: uppercase; color: var(--accent); }
-.cover h1 { font-size: clamp(40px, 7vw, 72px); margin: 12px 0 8px; line-height: 1.05; }
-.cover .subtitle { font-size: 22px; color: var(--muted); max-width: 720px; }
-.cover .meta { margin-top: 32px; font: 14px system-ui, sans-serif; color: var(--muted); }
-.cover ol { font-size: 18px; }
-.chapter { padding-top: 32px; margin-top: 48px; border-top: 3px double var(--rule); }
-.chapter-label { font: 600 13px system-ui, sans-serif; letter-spacing: .14em; text-transform: uppercase; color: var(--accent); }
-.chapter h1 { font-size: 38px; line-height: 1.15; margin: 6px 0 8px; }
-.chapter-source, .script-file, .source, .muted { color: var(--muted); font-size: 14px; }
-.script { margin-top: 56px; }
-.script h2 { font-size: 26px; margin-bottom: 2px; }
+nav.toc > ol > li { margin: 10px 0 2px; }
+nav.toc a { display: block; padding: 7px 12px; border-radius: 10px; text-decoration: none; transition: background .18s; }
+nav.toc > ol > li > a { font-weight: 600; color: var(--fg); }
+nav.toc ol ol { margin: 2px 0 0 10px; }
+nav.toc ol ol a { color: var(--muted); padding: 4px 12px; font-size: 13px; }
+nav.toc a:hover { background: var(--hover); color: var(--accent); }
+nav.toc .theme { margin-top: 18px; padding: 0 12px; }
+nav.toc button { font: inherit; font-size: 14px; background: var(--card); color: var(--fg); border: 1px solid var(--button-line);
+  border-radius: 8px; padding: 8px 15px; cursor: pointer; }
+main { padding: 0 0 60px; max-width: 1120px; min-width: 0; }
+.cover { background: var(--navy); color: #fff; border-radius: 20px; padding: 40px clamp(24px, 4vw, 48px);
+  margin-bottom: 28px; }
+.cover .kicker { font-size: 13px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #e3f4ff; }
+.cover h1 { font-size: clamp(36px, 5vw, 56px); margin: 10px 0 8px; line-height: 1.1; letter-spacing: -1.4px; }
+.cover .subtitle { font-size: 18px; color: #e3f4ff; max-width: 720px; }
+.cover .meta { margin-top: 28px; font-size: 14px; color: #e3f4ff; }
+.cover code, .cover a { color: #fff; }
+.cover ol { font-size: 16px; color: #fff; }
+.chapter { margin-top: 28px; background: var(--card); border: 1px solid var(--rule); border-radius: 20px;
+  padding: 0 36px 36px; overflow: hidden; }
+.chapter-head { margin: 0 -36px 8px; padding: 32px 36px 24px; background: var(--head-grad); border-bottom: 1px solid var(--rule); }
+.chapter-label { display: inline-block; font-size: 13px; font-weight: 600; border-radius: 30px; padding: 5px 12px;
+  background: var(--pill-bg); color: var(--pill-fg); }
+.chapter h1 { font-size: clamp(26px, 2.7vw, 35px); line-height: 1.3; margin: 18px 0 8px; letter-spacing: -.8px; }
+.chapter-source, .script-file, .source, .muted { color: var(--muted); font-size: 14px; overflow-wrap: anywhere; }
+.script { margin-top: 48px; }
+.script h2 { font-size: 24px; margin-bottom: 2px; letter-spacing: -.5px; }
 .secno { color: var(--accent); margin-right: 6px; }
 .doc-title { font-style: italic; color: var(--muted); margin-top: 8px; }
-.explanation h3 { font-size: 20px; margin-top: 28px; }
-.explanation h4 { font-size: 17px; }
-details.code { margin: 20px 0; border: 1px solid var(--rule); border-radius: 8px; background: var(--code-bg); }
-details.code > summary, details.artifact > summary { cursor: pointer; padding: 8px 14px;
+.explanation h3 { font-size: 19px; margin-top: 28px; }
+.explanation h4 { font-size: 16px; }
+details.code { margin: 20px 0; border: 1px solid var(--rule); border-radius: 12px; background: var(--code-bg); overflow: hidden; }
+details.code > summary, details.artifact > summary { cursor: pointer; padding: 9px 15px;
   font: 600 13px system-ui, sans-serif; color: var(--muted); }
+details.code > summary:hover, details.artifact > summary:hover { background: var(--hover); }
 details.code .highlight { overflow-x: auto; margin: 0; border-top: 1px solid var(--rule); }
 details.code pre { margin: 0; padding: 12px 14px; line-height: 1.5; }
 .highlight table { border: 0; margin: 0; }
 .highlight td { border: 0; padding: 0; background: transparent; }
 .highlight .linenos { color: var(--muted); user-select: none; padding-right: 12px; text-align: right; }
 .results { margin-top: 20px; border-left: 3px solid var(--accent); padding-left: 18px; }
-.results-title { font: 600 13px system-ui, sans-serif; letter-spacing: .1em; text-transform: uppercase;
+.results-title { font-size: 12px; font-weight: 750; letter-spacing: 1.8px; text-transform: uppercase;
   color: var(--accent); margin: 0 0 12px; }
-pre.output { background: var(--panel); padding: 12px 14px; border-radius: 6px; overflow-x: auto;
+pre.output { background: var(--panel); padding: 12px 14px; border-radius: 12px; overflow-x: auto;
   white-space: pre; line-height: 1.45; }
 figure { margin: 24px 0; text-align: center; }
-figure img { max-width: 100%; height: auto; background: #fff; border-radius: 6px; border: 1px solid var(--rule); }
+figure img { max-width: 100%; height: auto; background: #fff; border-radius: 12px; border: 1px solid var(--rule); }
 figcaption, .caption { font: 600 13px system-ui, sans-serif; color: var(--muted); margin: 8px 0; text-align: left; }
 .table-wrap { overflow-x: auto; margin: 18px 0; }
 table { border-collapse: collapse; font: 13px/1.4 system-ui, sans-serif; margin: 12px 0; }
-th, td { border: 1px solid var(--rule); padding: 5px 9px; text-align: left; vertical-align: top; }
+th, td { border: 1px solid var(--rule); padding: 6px 10px; text-align: left; vertical-align: top; }
 th { background: var(--table-head); }
+tr:hover td { background: var(--hover); }
 .explanation table { font-size: 14px; }
-.nb-notes { background: var(--panel); border-radius: 8px; padding: 4px 18px; margin: 14px 0; font-size: 16px; }
+.nb-notes { background: var(--panel); border-radius: 12px; padding: 4px 18px; margin: 14px 0; font-size: 15px; }
 .nb-notes h1, .nb-notes h2 { font-size: 20px; }
 .nb-notes h3, .nb-notes h4 { font-size: 17px; }
 .html-output { overflow-x: auto; }
 .explanation p, .explanation li, .nb-notes p, .nb-notes li { overflow-wrap: anywhere; }
-.explanation pre, .nb-notes pre { overflow-x: auto; background: var(--code-bg); padding: 12px 14px; border-radius: 6px; }
+.explanation pre, .nb-notes pre { overflow-x: auto; background: var(--code-bg); padding: 12px 14px; border-radius: 12px; }
 .explanation pre.mermaid, .nb-notes pre.mermaid { background: #fff; text-align: center; }
 .plotly-div { width: 100%; min-height: 420px; }
-details.artifact { margin: 14px 0; border: 1px solid var(--rule); border-radius: 8px; }
+details.artifact { margin: 14px 0; border: 1px solid var(--rule); border-radius: 12px; overflow: hidden; }
 details.artifact .output, details.artifact .source { margin: 0 14px 12px; }
+footer.site-footer { display: flex; justify-content: space-between; gap: 20px; font-size: 13px; color: var(--muted);
+  padding: 28px 4px 0; }
 @media (max-width: 900px) {
-  .layout { display: block; }
-  nav.toc { position: static; height: auto; border-right: 0; border-bottom: 1px solid var(--rule); }
+  .layout { display: block; padding: 16px 16px 0; }
+  nav.toc { position: static; max-height: 320px; margin-bottom: 20px; }
+  .cover { border-radius: 14px; padding: 28px 22px; }
+  .chapter { padding: 0 16px 24px; border-radius: 14px; }
+  .chapter-head { margin: 0 -16px 8px; padding: 24px 16px 18px; }
+  footer.site-footer { display: block; }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  * { transition: none !important; }
 }
 @media print {
   nav.toc { display: none; }
-  .layout { display: block; }
+  .layout { display: block; padding: 0; }
+  .cover { background: #fff; color: #17283e; padding: 0 0 20px; }
+  .cover .kicker, .cover .subtitle, .cover .meta, .cover code, .cover ol { color: #17283e; }
+  .chapter { border: 0; padding: 0; border-radius: 0; }
+  .chapter-head { margin: 0 0 8px; padding: 10px 0; background: #fff; }
+  footer.site-footer { display: none; }
   .chapter { page-break-before: always; }
   details.code { display: block; }
   figure, table { page-break-inside: avoid; }
 }
 
 pre { line-height: 125%; }
-td.linenos .normal { color: #666666; background-color: transparent; padding-left: 5px; padding-right: 5px; }
-span.linenos { color: #666666; background-color: transparent; padding-left: 5px; padding-right: 5px; }
+td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
+span.linenos { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
 td.linenos .special { color: #000000; background-color: #ffffc0; padding-left: 5px; padding-right: 5px; }
 span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 5px; padding-right: 5px; }
 .highlight .hll { background-color: #ffffcc }
-.highlight { background: #f0f0f0; }
-.highlight .c { color: #60A0B0; font-style: italic } /* Comment */
+.highlight { background: #f8f8f8; }
+.highlight .c { color: #3D7B7B; font-style: italic } /* Comment */
 .highlight .err { border: 1px solid #F00 } /* Error */
-.highlight .k { color: #007020; font-weight: bold } /* Keyword */
+.highlight .k { color: #008000; font-weight: bold } /* Keyword */
 .highlight .o { color: #666 } /* Operator */
-.highlight .ch { color: #60A0B0; font-style: italic } /* Comment.Hashbang */
-.highlight .cm { color: #60A0B0; font-style: italic } /* Comment.Multiline */
-.highlight .cp { color: #007020 } /* Comment.Preproc */
-.highlight .cpf { color: #60A0B0; font-style: italic } /* Comment.PreprocFile */
-.highlight .c1 { color: #60A0B0; font-style: italic } /* Comment.Single */
-.highlight .cs { color: #60A0B0; background-color: #FFF0F0 } /* Comment.Special */
+.highlight .ch { color: #3D7B7B; font-style: italic } /* Comment.Hashbang */
+.highlight .cm { color: #3D7B7B; font-style: italic } /* Comment.Multiline */
+.highlight .cp { color: #9C6500 } /* Comment.Preproc */
+.highlight .cpf { color: #3D7B7B; font-style: italic } /* Comment.PreprocFile */
+.highlight .c1 { color: #3D7B7B; font-style: italic } /* Comment.Single */
+.highlight .cs { color: #3D7B7B; font-style: italic } /* Comment.Special */
 .highlight .gd { color: #A00000 } /* Generic.Deleted */
 .highlight .ge { font-style: italic } /* Generic.Emph */
 .highlight .ges { font-weight: bold; font-style: italic } /* Generic.EmphStrong */
-.highlight .gr { color: #F00 } /* Generic.Error */
+.highlight .gr { color: #E40000 } /* Generic.Error */
 .highlight .gh { color: #000080; font-weight: bold } /* Generic.Heading */
-.highlight .gi { color: #00A000 } /* Generic.Inserted */
-.highlight .go { color: #888 } /* Generic.Output */
-.highlight .gp { color: #C65D09; font-weight: bold } /* Generic.Prompt */
+.highlight .gi { color: #008400 } /* Generic.Inserted */
+.highlight .go { color: #717171 } /* Generic.Output */
+.highlight .gp { color: #000080; font-weight: bold } /* Generic.Prompt */
 .highlight .gs { font-weight: bold } /* Generic.Strong */
 .highlight .gu { color: #800080; font-weight: bold } /* Generic.Subheading */
 .highlight .gt { color: #04D } /* Generic.Traceback */
-.highlight .kc { color: #007020; font-weight: bold } /* Keyword.Constant */
-.highlight .kd { color: #007020; font-weight: bold } /* Keyword.Declaration */
-.highlight .kn { color: #007020; font-weight: bold } /* Keyword.Namespace */
-.highlight .kp { color: #007020 } /* Keyword.Pseudo */
-.highlight .kr { color: #007020; font-weight: bold } /* Keyword.Reserved */
-.highlight .kt { color: #902000 } /* Keyword.Type */
-.highlight .m { color: #40A070 } /* Literal.Number */
-.highlight .s { color: #4070A0 } /* Literal.String */
-.highlight .na { color: #4070A0 } /* Name.Attribute */
-.highlight .nb { color: #007020 } /* Name.Builtin */
-.highlight .nc { color: #0E84B5; font-weight: bold } /* Name.Class */
-.highlight .no { color: #60ADD5 } /* Name.Constant */
-.highlight .nd { color: #555; font-weight: bold } /* Name.Decorator */
-.highlight .ni { color: #D55537; font-weight: bold } /* Name.Entity */
-.highlight .ne { color: #007020 } /* Name.Exception */
-.highlight .nf { color: #06287E } /* Name.Function */
-.highlight .nl { color: #002070; font-weight: bold } /* Name.Label */
-.highlight .nn { color: #0E84B5; font-weight: bold } /* Name.Namespace */
-.highlight .nt { color: #062873; font-weight: bold } /* Name.Tag */
-.highlight .nv { color: #BB60D5 } /* Name.Variable */
-.highlight .ow { color: #007020; font-weight: bold } /* Operator.Word */
+.highlight .kc { color: #008000; font-weight: bold } /* Keyword.Constant */
+.highlight .kd { color: #008000; font-weight: bold } /* Keyword.Declaration */
+.highlight .kn { color: #008000; font-weight: bold } /* Keyword.Namespace */
+.highlight .kp { color: #008000 } /* Keyword.Pseudo */
+.highlight .kr { color: #008000; font-weight: bold } /* Keyword.Reserved */
+.highlight .kt { color: #B00040 } /* Keyword.Type */
+.highlight .m { color: #666 } /* Literal.Number */
+.highlight .s { color: #BA2121 } /* Literal.String */
+.highlight .na { color: #687822 } /* Name.Attribute */
+.highlight .nb { color: #008000 } /* Name.Builtin */
+.highlight .nc { color: #00F; font-weight: bold } /* Name.Class */
+.highlight .no { color: #800 } /* Name.Constant */
+.highlight .nd { color: #A2F } /* Name.Decorator */
+.highlight .ni { color: #717171; font-weight: bold } /* Name.Entity */
+.highlight .ne { color: #CB3F38; font-weight: bold } /* Name.Exception */
+.highlight .nf { color: #00F } /* Name.Function */
+.highlight .nl { color: #767600 } /* Name.Label */
+.highlight .nn { color: #00F; font-weight: bold } /* Name.Namespace */
+.highlight .nt { color: #008000; font-weight: bold } /* Name.Tag */
+.highlight .nv { color: #19177C } /* Name.Variable */
+.highlight .ow { color: #A2F; font-weight: bold } /* Operator.Word */
 .highlight .w { color: #BBB } /* Text.Whitespace */
-.highlight .mb { color: #40A070 } /* Literal.Number.Bin */
-.highlight .mf { color: #40A070 } /* Literal.Number.Float */
-.highlight .mh { color: #40A070 } /* Literal.Number.Hex */
-.highlight .mi { color: #40A070 } /* Literal.Number.Integer */
-.highlight .mo { color: #40A070 } /* Literal.Number.Oct */
-.highlight .sa { color: #4070A0 } /* Literal.String.Affix */
-.highlight .sb { color: #4070A0 } /* Literal.String.Backtick */
-.highlight .sc { color: #4070A0 } /* Literal.String.Char */
-.highlight .dl { color: #4070A0 } /* Literal.String.Delimiter */
-.highlight .sd { color: #4070A0; font-style: italic } /* Literal.String.Doc */
-.highlight .s2 { color: #4070A0 } /* Literal.String.Double */
-.highlight .se { color: #4070A0; font-weight: bold } /* Literal.String.Escape */
-.highlight .sh { color: #4070A0 } /* Literal.String.Heredoc */
-.highlight .si { color: #70A0D0; font-style: italic } /* Literal.String.Interpol */
-.highlight .sx { color: #C65D09 } /* Literal.String.Other */
-.highlight .sr { color: #235388 } /* Literal.String.Regex */
-.highlight .s1 { color: #4070A0 } /* Literal.String.Single */
-.highlight .ss { color: #517918 } /* Literal.String.Symbol */
-.highlight .bp { color: #007020 } /* Name.Builtin.Pseudo */
-.highlight .fm { color: #06287E } /* Name.Function.Magic */
-.highlight .vc { color: #BB60D5 } /* Name.Variable.Class */
-.highlight .vg { color: #BB60D5 } /* Name.Variable.Global */
-.highlight .vi { color: #BB60D5 } /* Name.Variable.Instance */
-.highlight .vm { color: #BB60D5 } /* Name.Variable.Magic */
-.highlight .il { color: #40A070 } /* Literal.Number.Integer.Long */
+.highlight .mb { color: #666 } /* Literal.Number.Bin */
+.highlight .mf { color: #666 } /* Literal.Number.Float */
+.highlight .mh { color: #666 } /* Literal.Number.Hex */
+.highlight .mi { color: #666 } /* Literal.Number.Integer */
+.highlight .mo { color: #666 } /* Literal.Number.Oct */
+.highlight .sa { color: #BA2121 } /* Literal.String.Affix */
+.highlight .sb { color: #BA2121 } /* Literal.String.Backtick */
+.highlight .sc { color: #BA2121 } /* Literal.String.Char */
+.highlight .dl { color: #BA2121 } /* Literal.String.Delimiter */
+.highlight .sd { color: #BA2121; font-style: italic } /* Literal.String.Doc */
+.highlight .s2 { color: #BA2121 } /* Literal.String.Double */
+.highlight .se { color: #AA5D1F; font-weight: bold } /* Literal.String.Escape */
+.highlight .sh { color: #BA2121 } /* Literal.String.Heredoc */
+.highlight .si { color: #A45A77; font-weight: bold } /* Literal.String.Interpol */
+.highlight .sx { color: #008000 } /* Literal.String.Other */
+.highlight .sr { color: #A45A77 } /* Literal.String.Regex */
+.highlight .s1 { color: #BA2121 } /* Literal.String.Single */
+.highlight .ss { color: #19177C } /* Literal.String.Symbol */
+.highlight .bp { color: #008000 } /* Name.Builtin.Pseudo */
+.highlight .fm { color: #00F } /* Name.Function.Magic */
+.highlight .vc { color: #19177C } /* Name.Variable.Class */
+.highlight .vg { color: #19177C } /* Name.Variable.Global */
+.highlight .vi { color: #19177C } /* Name.Variable.Instance */
+.highlight .vm { color: #19177C } /* Name.Variable.Magic */
+.highlight .il { color: #666 } /* Literal.Number.Integer.Long */
 .highlight, .highlight pre { background: transparent !important; }
 @media (prefers-color-scheme: dark) { pre { line-height: 125%; }
 td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
@@ -356,13 +387,13 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 <div class="layout">
 <nav class="toc">
   <div class="brand">NyayaRAG</div>
-  <div class="muted">Research ebook</div>
+  <div class="muted">DataMindsLab / Research</div>
   <ol><li><a href="#ch1">1. Data Preparation, Corpus Analysis, Chunking and Retrieval Indexing</a><ol><li><a href="#ch1-01-environment-setup-and-project-configuration">1.1 Environment Setup And Project Configuration</a></li><li><a href="#ch1-02-dataset-acquisition-and-corpus-loading">1.2 Dataset Acquisition And Corpus Loading</a></li><li><a href="#ch1-03-metadata-quality-assessment">1.3 Metadata Quality Assessment</a></li><li><a href="#ch1-04-pdf-text-extraction">1.4 PDF Text Extraction</a></li><li><a href="#ch1-05-text-cleaning-and-corpus-preparation">1.5 Text Cleaning And Corpus Preparation</a></li><li><a href="#ch1-06-exploratory-data-analysis">1.6 Exploratory Data Analysis</a></li><li><a href="#ch1-07-chunking-strategy-and-chunker-development">1.7 Chunking Strategy And Chunker Development</a></li><li><a href="#ch1-08-corpus-chunk-generation-and-validation">1.8 Corpus Chunk Generation And Validation</a></li><li><a href="#ch1-09-sparse-retrieval-tfidf-and-bm25">1.9 Sparse Retrieval TF-IDF And BM25</a></li><li><a href="#ch1-10-dense-retrieval-e5-indexing">1.10 Dense Retrieval E5 Indexing</a></li><li><a href="#ch1-11-dense-retrieval-bge-indexing">1.11 Dense Retrieval BGE Indexing</a></li><li><a href="#ch1-12-domain-retrieval-inlegalbert-indexing">1.12 Domain Retrieval InLegalBERT Indexing</a></li><li><a href="#ch1-13-retrieval-index-metadata-and-validation-report">1.13 Retrieval Index Metadata And Validation Report</a></li><li><a href="#ch1-multi-model-evaluation-solution">1.14 Multi Model Evaluation Solution</a></li></ol></li><li><a href="#ch2">2. Research Questions, Statistical Plan and Sample Size Determination</a><ol><li><a href="#ch2-01-research-questions-and-statistical-plan">2.1 Research Questions And Statistical Plan</a></li><li><a href="#ch2-02-statistical-assumptions-sample-size">2.2 Statistical Assumptions Sample Size</a></li><li><a href="#ch2-03-sample-size-determination-rq1">2.3 Sample Size Determination RQ1</a></li><li><a href="#ch2-04-sample-size-determination-rq2">2.4 Sample Size Determination RQ2</a></li><li><a href="#ch2-05-sample-size-determination-rq3">2.5 Sample Size Determination RQ3</a></li><li><a href="#ch2-06-sample-size-determination-rq4">2.6 Sample Size Determination RQ4</a></li><li><a href="#ch2-07-final-sample-size-decisions-summary">2.7 Final Sample Size Decisions Summary</a></li><li><a href="#ch2-08-run-all-power-analyses">2.8 Run All Power Analyses</a></li><li><a href="#ch2-statistical-evaluation-guide">2.9 Statistical Evaluation Guide</a></li></ol></li><li><a href="#ch3">3. LLM-Judge Evaluation of Pilot Benchmark Questions</a><ol><li><a href="#ch3-01-dataset-loading-and-inspection">3.1 Dataset Loading And Inspection</a></li><li><a href="#ch3-02-gemini-judge-client-setup">3.2 Gemini Judge Client Setup</a></li><li><a href="#ch3-03-evaluation-rubric-and-prompt-builder">3.3 Evaluation Rubric And Prompt Builder</a></li><li><a href="#ch3-04-preferred-reconstruction-evaluation">3.4 Preferred Reconstruction Evaluation</a></li><li><a href="#ch3-05-results-validation-and-export">3.5 Results Validation And Export</a></li><li><a href="#ch3-06-statistical-analysis-and-visualization">3.6 Statistical Analysis And Visualization</a></li><li><a href="#ch3-07-manual-review-screening-and-risk-flagging">3.7 Manual Review Screening And Risk Flagging</a></li><li><a href="#ch3-08-candidate-comparison-evaluation">3.8 Candidate Comparison Evaluation</a></li><li><a href="#ch3-09-run-all-simulated-evaluations">3.9 Run All Simulated Evaluations</a></li><li><a href="#ch3-additional-outputs">3.10 Additional Notebook Outputs</a></li><li><a href="#ch3-notebook-3-literaturereview">3.11 Notebook 3 Literaturereview</a></li></ol></li><li><a href="#ch4">4. Pilot Retrieval Evaluation and Statistical Analysis (RQ1 and RQ2)</a><ol><li><a href="#ch4-01-environment-and-pilot-benchmark-setup">4.1 Environment And Pilot Benchmark Setup</a></li><li><a href="#ch4-02-tfidf-retrieval-and-pilot-evaluation">4.2 TF-IDF Retrieval And Pilot Evaluation</a></li><li><a href="#ch4-03-tfidf-metrics-and-evaluation">4.3 TF-IDF Metrics And Evaluation</a></li><li><a href="#ch4-04-bm25-retrieval-and-evaluation">4.4 BM25 Retrieval And Evaluation</a></li><li><a href="#ch4-05-e5-dense-retrieval-and-evaluation">4.5 E5 Dense Retrieval And Evaluation</a></li><li><a href="#ch4-06-bge-dense-retrieval-and-evaluation">4.6 BGE Dense Retrieval And Evaluation</a></li><li><a href="#ch4-07-inlegalbert-retrieval-and-evaluation">4.7 InLegalBERT Retrieval And Evaluation</a></li><li><a href="#ch4-08-hybrid-rrf-retrieval-and-evaluation">4.8 Hybrid RRF Retrieval And Evaluation</a></li><li><a href="#ch4-09-rq1-statistical-analysis-wilcoxon">4.9 RQ1 Statistical Analysis Wilcoxon</a></li><li><a href="#ch4-10-rq2-statistical-analysis-friedman">4.10 RQ2 Statistical Analysis Friedman</a></li><li><a href="#ch4-11-run-all-pilot-evaluations">4.11 Run All Pilot Evaluations</a></li></ol></li><li><a href="#ch5">5. Evidence-Grounded Generation and Safe Abstention (RQ3 and RQ4)</a><ol><li><a href="#ch5-01-environment-and-benchmark-setup">5.1 Environment And Benchmark Setup</a></li><li><a href="#ch5-02-qwen-generation-setup-optional">5.2 Qwen Generation Setup Optional</a></li><li><a href="#ch5-03-expert-answerability-ground-truth">5.3 Expert Answerability Ground Truth</a></li><li><a href="#ch5-04-evidence-packaging-and-prompt-engineering">5.4 Evidence Packaging And Prompt Engineering</a></li><li><a href="#ch5-05-evidence-grounded-generation-pipeline">5.5 Evidence Grounded Generation Pipeline</a></li><li><a href="#ch5-06-generation-validation-and-decision-classification">5.6 Generation Validation And Decision Classification</a></li><li><a href="#ch5-07-rq3-evidence-grounded-generation-evaluation">5.7 RQ3 Evidence Grounded Generation Evaluation</a></li><li><a href="#ch5-08-rq4-safe-abstention-and-confusion-matrix">5.8 RQ4 Safe Abstention And Confusion Matrix</a></li><li><a href="#ch5-09-pilot-evaluation-summary-and-conclusions">5.9 Pilot Evaluation Summary And Conclusions</a></li><li><a href="#ch5-10-run-all-generation-and-evaluations">5.10 Run All Generation And Evaluations</a></li></ol></li></ol>
   <div class="theme"><button id="theme-toggle" type="button">Toggle light / dark</button></div>
 </nav>
 <main>
 <header class="cover">
-  <div class="kicker">Research ebook</div>
+  <div class="kicker">DataMindsLab · Research ebook</div>
   <h1>NyayaRAG</h1>
   <p class="subtitle">A retrieval-augmented legal research assistant for Indian Supreme Court judgments:
   data preparation, statistical design, benchmark evaluation, retrieval experiments and evidence-grounded generation.</p>
@@ -371,8 +402,8 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
   with outputs and figures from the executed notebooks and saved evaluation artefacts.</div>
 </header>
 <section class="chapter" id="ch1">
-<div class="chapter-label">Chapter 1</div><h1>Data Preparation, Corpus Analysis, Chunking and Retrieval Indexing</h1>
-<p class="chapter-source">Source: <code>notebook_1/</code> · executed notebook <code>notebooks/01_NYAYaRAG_Data_Preparation_and_Indexing.ipynb</code></p>
+<div class="chapter-head"><div class="chapter-label">Chapter 1</div><h1>Data Preparation, Corpus Analysis, Chunking and Retrieval Indexing</h1>
+<p class="chapter-source">Source: <code>notebook_1/</code> · executed notebook <code>notebooks/01_NYAYaRAG_Data_Preparation_and_Indexing.ipynb</code></p></div>
 <section class="script" id="ch1-01-environment-setup-and-project-configuration">
 <h2><span class="secno">1.1</span> Environment Setup And Project Configuration</h2>
 <div class="script-file"><code>notebook_1/01_environment_setup_and_project_configuration.py</code></div>
@@ -14654,8 +14685,8 @@ Persistent Storage            : Verified
 </details>
 </section>
 </section><section class="chapter" id="ch2">
-<div class="chapter-label">Chapter 2</div><h1>Research Questions, Statistical Plan and Sample Size Determination</h1>
-<p class="chapter-source">Source: <code>notebook_2/</code> · executed notebook <code>notebooks/02_NYAYaRAG_Model_Evaluation_and_Statistical_Analysis.ipynb</code></p>
+<div class="chapter-head"><div class="chapter-label">Chapter 2</div><h1>Research Questions, Statistical Plan and Sample Size Determination</h1>
+<p class="chapter-source">Source: <code>notebook_2/</code> · executed notebook <code>notebooks/02_NYAYaRAG_Model_Evaluation_and_Statistical_Analysis.ipynb</code></p></div>
 <section class="script" id="ch2-01-research-questions-and-statistical-plan">
 <h2><span class="secno">2.1</span> Research Questions And Statistical Plan</h2>
 <div class="script-file"><code>notebook_2/01_research_questions_and_statistical_plan.py</code></div>
@@ -21001,8 +21032,8 @@ min_n = rq1_power_results.loc[
 <li><code>08_run_all_power_analyses.py</code>: Master pipeline runner executing all validations sequentially.</li>
 </ol></div></section>
 </section><section class="chapter" id="ch3">
-<div class="chapter-label">Chapter 3</div><h1>LLM-Judge Evaluation of Pilot Benchmark Questions</h1>
-<p class="chapter-source">Source: <code>notebook_3/</code> · executed notebook <code>notebooks/03_NyayaRAG_Pilot_Questions_Generatated_simulated.ipynb</code></p>
+<div class="chapter-head"><div class="chapter-label">Chapter 3</div><h1>LLM-Judge Evaluation of Pilot Benchmark Questions</h1>
+<p class="chapter-source">Source: <code>notebook_3/</code> · executed notebook <code>notebooks/03_NyayaRAG_Pilot_Questions_Generatated_simulated.ipynb</code></p></div>
 <section class="script" id="ch3-01-dataset-loading-and-inspection">
 <h2><span class="secno">3.1</span> Dataset Loading And Inspection</h2>
 <div class="script-file"><code>notebook_3/01_dataset_loading_and_inspection.py</code></div>
@@ -27444,8 +27475,8 @@ The notebook code isn’t reproduced, so the steps above come from the report’
                  120 questions
 </code></pre></div></section>
 </section><section class="chapter" id="ch4">
-<div class="chapter-label">Chapter 4</div><h1>Pilot Retrieval Evaluation and Statistical Analysis (RQ1 and RQ2)</h1>
-<p class="chapter-source">Source: <code>notebook_4/</code> · executed notebook <code>notebooks/04_NyayaRAG_Pilot_Evaluation_and_Pipeline_Validation.ipynb</code></p>
+<div class="chapter-head"><div class="chapter-label">Chapter 4</div><h1>Pilot Retrieval Evaluation and Statistical Analysis (RQ1 and RQ2)</h1>
+<p class="chapter-source">Source: <code>notebook_4/</code> · executed notebook <code>notebooks/04_NyayaRAG_Pilot_Evaluation_and_Pipeline_Validation.ipynb</code></p></div>
 <section class="script" id="ch4-01-environment-and-pilot-benchmark-setup">
 <h2><span class="secno">4.1</span> Environment And Pilot Benchmark Setup</h2>
 <div class="script-file"><code>notebook_4/01_environment_and_pilot_benchmark_setup.py</code></div>
@@ -48060,8 +48091,8 @@ NDCG@5
 </details>
 </section>
 </section><section class="chapter" id="ch5">
-<div class="chapter-label">Chapter 5</div><h1>Evidence-Grounded Generation and Safe Abstention (RQ3 and RQ4)</h1>
-<p class="chapter-source">Source: <code>notebook_5/</code> · executed notebook <code>notebooks/05_NyayaRAG_Generation_and_Evaluation_Qwen.ipynb</code></p>
+<div class="chapter-head"><div class="chapter-label">Chapter 5</div><h1>Evidence-Grounded Generation and Safe Abstention (RQ3 and RQ4)</h1>
+<p class="chapter-source">Source: <code>notebook_5/</code> · executed notebook <code>notebooks/05_NyayaRAG_Generation_and_Evaluation_Qwen.ipynb</code></p></div>
 <section class="script" id="ch5-01-environment-and-benchmark-setup">
 <h2><span class="secno">5.1</span> Environment And Benchmark Setup</h2>
 <div class="script-file"><code>notebook_5/01_environment_and_benchmark_setup.py</code></div>
@@ -56956,6 +56987,7 @@ rq4_evaluation</pre>
 </details>
 </section>
 </section>
+<footer class="site-footer"><span>DataMindsLab · Research ebook</span><span>NyayaRAG</span></footer>
 </main>
 </div>
 <script>
@@ -56976,7 +57008,8 @@ rq4_evaluation</pre>
     document.querySelectorAll('code.language-mermaid').forEach(function (c) {
       var pre = c.parentElement; pre.className = 'mermaid'; pre.textContent = c.textContent;
     });
-    mermaid.initialize({startOnLoad: false, theme: 'neutral'});
+    mermaid.initialize({startOnLoad: false, theme: 'base', themeVariables: {
+      primaryColor: '#eaf1ff', primaryBorderColor: '#0072a8', primaryTextColor: '#17283e', lineColor: '#53677d'}});
     mermaid.run({querySelector: 'pre.mermaid'});
   }
   if (window.Plotly) {
